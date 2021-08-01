@@ -1,0 +1,1185 @@
+<resource=https://www.youtube.com/watch?v=1kM5RfnJ-lI&t=1s>
+<topic=On the Phone A Less Formal Call>
+<start=dialog>
+Miss Wallace: Good afternoon, Scott and Smith. May I help you? --yn
+George: May I speak to Mr. Scott or Mr. Smith, please? --yn
+Miss Wallace: I'm sorry, they aren't here right now. Who's calling, please? --who
+George: George Martin.
+Miss Wallace: Is there any message I can take, Mr. Martin? --yn
+George: No, I'll call back later.
+Miss Wallace: Thank you for calling Scott and Smith.
+<end=dialog>
+<topic=A Cup of Coffee>
+<start=dialog>
+Bill: Can I get you something to drink? --yn
+Robin: A cup of coffee, please.
+Bill: With milk and sugar? --selection
+Robin: A little milk, but no sugar.
+Bill: I never drink coffee at night.
+Robin: Why not? --why
+Bill: It keeps me awake.
+Robin: What do you drink with supper? --what
+Bill: Tea, it helps me relax.
+Robin: I don't like tea.
+Bill: There are so many kinds of tea; maybe you should shop around and try to find one you like because coffee is so bad for you.
+Robin: That's a good idea.
+<end=dialog>
+<topic=How About a Drink?>
+<start=dialog>
+Chris: How about a drink, tonight? --how_about
+Loretta: I'd love to.
+Chris: Where can we meet? --where
+Loretta: How about the Relax Bar? --how_about
+Chris: All right. What time? --when
+Loretta: Is eight o'clock OK? --yn
+Chris: Yes that's fine.
+Loretta: I will meet you there; I'm really looking forward to it!
+Chris: Me too!
+<end=dialog>
+<topic=I Have a Sore Throat>
+<start=dialog>
+Matt: You sound terrible.
+Judy: I have a sore throat.
+Matt: You should rest your voice.
+Judy: I know. It hurts when I talk.
+Matt: What are you taking for your throat? --what
+Judy: Hot tea and honey.
+Matt: That should help. Are you going to work today? --yn
+Judy: No, I'm staying home.
+Matt: Good idea.
+Judy: I'll feel better tomorrow.
+Matt: I hope so.
+<end=dialog>
+<topic=On Sale>
+<start=dialog>
+Emily: Do you like my new coat? --yn
+Scott: It looks terrific!
+Emily: I'm glad you like it.
+Scott: How much was it? --how_much
+Emily: Eighty dollars.
+Scott: That's a good price.
+Emily: Yeah, it was on sale.
+Scott: Where did you get it? --where
+Emily: At Sears.
+Scott: I like to shop there, too; they always have really good sales!
+Emily: Maybe you should go there today, you the have a sale on shirts if you're interested.
+Scott: Good idea! I need some.
+<end=dialog>
+<topic=Not a Cloud in the Sky>
+<start=dialog>
+Eddie: What a beautiful day!
+Rita: Yes, there's not a cloud in the sky.
+Eddie: What's the temperature? --what
+Rita: It's seventy degrees.
+Eddie: I love October.
+Rita: Me too. It's not too hot and not too cold.
+Eddie: Fall is my favorite season.
+Rita: Mine, too.
+Eddie: The weather is almost perfect.
+Rita: And the leaves are very pretty when they change colors.
+<end=dialog>
+<topic=Cold and Windy>
+<start=dialog>
+Eileen: Is it cold out? --yn
+Nelson: Yes, it's cold and windy!
+Eileen: I'm going to wear my heavy coat.
+Nelson: Good idea! Where are you going? --where
+Eileen: To the post office.
+Nelson: Why? --why
+Eileen: To mail this package.
+Nelson: Would you buy some stamps for me? --yn
+Eileen: Sure. How many do you want? --how_many
+Nelson: Ten. Here's the money for the stamps.
+Eileen: Okay. I'll be back in twenty minutes, unless I get blown away!
+<end=dialog>
+<topic=It's Beginning to Snow.>
+<start=dialog>
+Jason: Do you like snow? --yn
+Kristin: No! I hate it!
+Jason: Why? --why Snow is so pretty.
+Kristin: Yes, but I don't like to drive in it.
+Jason: Well, it's beginning to snow.
+Kristin: And I have to drive to work.
+Jason: How far is it to work? --how_far
+Kristin: Six miles. Are we going to get much snow? --yn
+Jason: About twelve inches, they say.
+Kristin: Oh no! Driving will be dangerous! Please be careful!
+Jason: I will, by the way, can I borrow your car? --yn
+<end=dialog>
+<topic=A House at the Shore>
+<start=dialog>
+Roberto: When is your vacation? --when
+Sandra: It starts next week.
+Roberto: Where are you going? --where
+Sandra: We're renting a house on the shore.
+Roberto: That's wonderful!
+Sandra: Yes, we love the ocean.
+Roberto: Do you swim a lot? --yn
+Sandra: Not very much.
+Roberto: Then, why are you going to the shore? --why
+Sandra: Because we all bought new swim suits!
+<end=dialog>
+<topic=A Soccer Game>
+<start=dialog>
+Denis: I'm going to play soccer.
+Barbara: Who are you playing with? --who
+Denis: Some friends from work.
+Barbara: Are you a good soccer player? --yn
+Denis: Yes, but I'm not the best player on the team.
+Barbara: What time does the game begin? --what
+Denis: Nine o'clock. Why don't you come with me? --why
+Barbara: I can't today. I'm very busy.
+Denis: Okay. See you later.
+Barbara: I hope your team wins.
+<end=dialog>
+<topic=Not So Young>
+<start=dialog>
+Keith: My son is graduating from high school today!
+Sally: And my daughter is graduating next year.
+Keith: How old is she? --how_adj
+Sally: She's sixteen.
+Keith: I remember when she was a baby.
+Sally: I know. We're getting old.
+Keith: Don't say that!
+Sally: Why not? --why It's true.
+Keith: No, it isn't. We were young when we got married.
+Sally: That's right, but we got married 25 years ago!
+<end=dialog>
+<topic=Is She Single?>
+<start=dialog>
+Lynn: Today is my cousin's birthday.
+Roger: What's your cousin's name? --
+Lynn: Kathy. I'm going to her house after dinner.
+Roger: How old is she? --how_adj
+Lynn: She's twenty four.
+Roger: Hmm. She's my age. Is she pretty? --yn
+Lynn: Yes, and she's very nice, too.
+Roger: Is she single? --yn
+Lynn: No, she's married and has two children.
+Roger: Oh that's too bad.
+Lynn: Not for her! He he he...
+<end=dialog>
+<topic=To Buy a Birthday Present>
+<start=dialog>
+Mark: What are you getting Jim for his birthday? --what
+Leslie: I don't know yet.
+Mark: You can always get him a shirt.
+Leslie: But I got him one last year.
+Mark: Oh, that's right. Let me think.
+Leslie: I want to get him something different.
+Mark: How about a briefcase? --how_about
+Leslie: Good idea! His briefcase is getting old.
+Mark: And it's something he'll use every day.
+Leslie: Of course! Why didn't I think of that? --why
+<end=dialog>
+<topic=Telephone>
+<start=dialog>
+Mr Palmer: Hello? --what
+Sue: Hello, is Mary there? --yn
+Mr Palmer: I'm sorry, you have the wrong number.
+Sue: Oh...is this 6855290? --yn
+Mr Palmer: No, it's not.
+Sue: I'm sorry.
+Mr Palmer: That's OK.
+<end=dialog>
+<topic=A Light Eater>
+<start=dialog>
+Frances: Would you like anything else? --yn You haven't eaten very much.
+Grace: No, thanks. I'm already full.
+Frances: Oh, come on. Have some more.
+Grace: No, I really can't. I've never been much of an eater.
+Frances: Have some coffee then.
+Grace: That would be nice.
+Frances: How do you take it? --how_to
+Grace: With sugar please, no cream.
+Frances: Here you are.
+Grace: Thank you.
+<end=dialog>
+<topic=A Nice Flat (1)>
+<start=dialog>
+Agent: This is a nice flat.
+Jane: Mmm...
+Agent: There's a living room. There's a kitchen, a bedroom, and a bathroom, and there's a bidet!
+Jane: What is a bidet? --what
+Agent: It's like a toilet, only better, I'll let you figure it out!
+Jane: Well, none of my friends have a bidet, and even if I don't know what it is, they will be jealous when I tell them!
+<end=dialog>
+<topic=A Nice Flat (2)>
+<start=dialog>
+Agent: Well, here's the kitchen.
+Jane: Hmm...It's very small.
+Agent: Yes, it isn't very large, but there's a cooker and a fridge. There are some cup boards under the sink.
+Jane: Are there any plates? --yn
+Agent: Yes, there are.
+Jane: Good. Are there any chairs in here? --yn
+Agent: No, there aren't, but there are some in the living room.
+Jane: Hmm. There aren't any glasses!
+Agent: Yes, there are! They're in the cupboard.
+Jane: ...and ...er... where's the toilet? --where
+<end=dialog>
+<topic=Afraid of Flying>
+<start=dialog>
+Bert: Where is your meeting? --where
+Linda: In Dallas, Texas.
+Bert: How are you going? --how_adj
+Linda: By plane.
+Bert: Do you like to fly? --yn
+Linda: Sure. It's fast and comfortable.
+Bert: I'm afraid of flying.
+Linda: That's silly. Flying is very safe.
+Bert: Maybe, but I don't feel safe in a plane.
+Linda: I understand. A lot of people feel that way.
+<end=dialog>
+<topic=A Plane Reservation>
+<start=dialog>
+Henry: I'd like to reconfirm my plane reservation.
+Miss Lester: What flight are you taking? --what
+Henry: Flight 207.
+Miss Lester: And your name, please? --what
+Henry: Henry Chandler.
+Miss Lester: Yes, sir. You're booked on Flight 207. Please check in at the airport an hour before flight time.
+Henry: Thank you.
+<end=dialog>
+<topic=Getting Together>
+<start=dialog>
+Walter: Are you free Friday night? --yn
+Rebecca: I might not be in town. I'm not sure yet. A friend suggested I go to Vancouver.
+Walter: Well, a few of us are getting together, and I thought you might want to come, too.
+Rebecca: What are you thinking of doing? --what
+Walter: We're not sure yet. We might go to a bar, but we'll probably go see A. I.
+Rebecca: Oh, I haven't seen yet.
+Walter: Well, come then.
+Rebecca: Sure, if I'm in town. I'll call you and let you know.
+<end=dialog>
+<topic=How's Your New Job Going?>
+<start=dialog>
+Mr Adams: Oh, Miss Wallace! Long time no see.
+Miss Wallace: How are you? --how_adj
+Mr Adams: Good. Thank you. How's your new job? --how_adj
+Miss Wallace: I started working today.
+Mr Adams: How does it seem so far? --how_to
+Miss Wallace: It's demanding, but I'm happy to be working.
+Mr Adams: What's your boss like? --what
+Miss Wallace: He appears to be very thoughtful and kind, but they all do at first. I guess we will have to see.
+Mr. Adams: Well, I wish you the best of luck.
+Miss Wallace: Thanks, take care.
+<end=dialog>
+<topic=We Eat a Lot>
+<start=dialog>
+Mario: Did you see my car keys? --yn
+Eva: They're on top of the TV.
+Mario: You're right. Thanks!
+Eva: Where are you going? --where
+Mario: To the supermarket.
+Eva: Again? --yn
+Mario: Yes, we eat a lot.
+Eva: Do you want me to go with you? --yn
+Mario: Sure, if you can.
+Eva: Good. The packages will be heavy.
+Mario: There is a new health store right up the road; maybe since you guys eat a lot you should try and eat more healthily.
+Eva: Maybe you're right; we have all put on a little weight.
+<end=dialog>
+<topic=I'll Take You>
+<start=dialog>
+George: Diana!
+Diana: Oh, George...hi, how are you? --how_adj Listen, I'm in a terrible hurry. The bank closes in twenty minutes.
+George: Is your bank near here? --yn
+Diana: Yes, it's only four blocks awayon Vine Street.
+George: Well, get in. I'll take you.
+Diana: Are you sure? --yn It's not out of your way? --yn
+George: No, not at all.
+Diana: This is so nice of you, George. Thank you.
+George: You're welcome.
+<end=dialog>
+<topic=We Must be Out of Them>
+<start=dialog>
+David: Hi! Sorry I'm late. I missed the bus.
+Edie: Oh, that's O. K. I had time to clean up before you come.
+David: You don't look very good.
+Edie: I must be getting a cold. I've been sneezing all day. AAATCHOO!
+David: Bless you.
+Edie: Thank you.
+David: You must be getting a cold. Why don't you go lie down? --why I'll bring you some aspirin. ...
+David: I don't see any aspirin in the medicine cabinet.
+Edie: We must be out of them.
+David: I'll go to the drugstore. Is there anything else we need? --yn
+Edie: Could you get some...ATCHOO...
+David: I don't know if they sell ATCHOO there, but I'll check!
+<end=dialog>
+<topic=Doctor's Appointment>
+<start=dialog>
+Patricia: When can I see Dr. Know? --when
+Nurse: He won't be free until tomorrow.
+Patricia: Can I make an appointment? --yn
+Nurse: Sure. How about tomorrow at ten o'clock? --how_about
+Patricia: Can you make it at nine? --yn
+Nurse: I check to see if he's available. I'm sorry but he's tied up until ten o'clock.
+Patricia: Well, can't you squeeze me in, somehow? --yn
+Nurse: I'm afraid not. How about after lunch? --how_about
+Patricia: Will one o'clock be all right? --yn
+Nurse: That's perfect. Thank you.
+<end=dialog>
+<topic=Traffic Rules (2)>
+<start=dialog>
+Police Officer: Excuse me. May I see your license? --yn
+Kay: I'm afraid I've left it at home.
+P.O.: In that case, you'll have to take it to the police station within five days.
+Kay: But...but why? --why
+P.O.: You were speeding, ma'am.
+Kay: But I was only doing 75!
+P.O.: There's a 70km/h speed limit on this road, ma'am.
+Kay: Is there? --yn I didn't see the sign...
+P.O.: Well, ma'am. We've been following you.
+Kay: So you were doing 75, too.
+P.O.: No, ma'am. We were doing 90km/h... and we couldn't catch you!
+<end=dialog>
+<topic=Eating out>
+<start=dialog>
+Louis: Waiter! Could we have the bill, please? --yn
+Waiter: Can I put it all on one bill? --yn
+Louise: No, we'd prefer separate checks.
+Waiter: Your bill's eighteen dollars.
+Louise: That seems expensive. Would you check it again please? --yn
+Waiter: Sorry, ma'am. This is your friend's bill. Here is yours; it's twentyfour dollars and sixteen cents!
+<end=dialog>
+<topic=To Buy a Bus Ticket>
+<start=dialog>
+Raymond: Excuse me...
+Teller: Yes. Can I help you? --yn
+Raymond: Yes, I'd like some information about buses please.
+Teller: Where to? --where
+Raymond: ... to Toronto.
+Teller: When? --when
+Raymond: This Saturday.
+Teller: Morning or afternoon? --selection
+Raymond: In the afternoon. About three o'clock.
+Teller: There's one at 3:20.
+Raymond: Thank you that sounds perfect; I'll take it!
+<end=dialog>
+<topic=On the Phone>
+<start=dialog>
+Miss Wallace: Good morning, Scott and Smith Law Office. May I help you? --yn
+Nick: Yes. May I speak to David Waller, please? --yn
+Miss Wallace: I'm sorry, he isn't here yet. May I take a message? --yn
+Nick: Yes. Could you ask him to call Marjorie Vale? --yn
+Miss Wallace: How do you spell your last name? --how_to
+Nick: VALE.
+Miss Wallace: What's your phone number? --what Or does Mr. Waller have it? --yn
+Nick: Uh, no, he doesn't. It's 6805290.
+Miss Wallace: I'm sorry, could you repeat that? --yn
+Nick: 6805290.
+Miss Wallace: I'll give him the message.
+Nick: Thank you.
+Miss Wallace: You're welcome.
+<end=dialog>
+<topic=Operating Room>
+<start=dialog>
+Doctor: Mrs, Martin? --yn I'm Dr. Thomas.
+Mrs. Martin: Oh, doctor, how is he? --how_adj
+Doctor: Well, I'm afraid we'll have to operate.
+Mrs. Martin: Oh, no! He's always been afraid of operations.
+Doctor: Don't worry. If we operate now, he'll be all right.
+Mrs. Martin: Oh, doctor, do you really have to? --yn
+Doctor: I'm afraid so. He's lost a lot of blood. If we don't operate, he'll die!
+Mrs. Martin: Oh, please just do whatever you have to.
+<end=dialog>
+<topic=A Car Loan>
+<start=dialog>
+Lynn: I want to go to the bank this afternoon.
+Andy: I'll drive you there.
+Lynn: Thanks. I'm going to apply for a loan.
+Andy: Why do you need a loan? --why
+Lynn: I have to buy a new car.
+Andy: What's wrong with your car? --what
+Lynn: It won't start, and it's ten years old.
+Andy: How much will a new car cost? --how_much
+Lynn: About fifteen thousand dollars.
+Andy: Wow! That's a lot of money.
+Lynn: I know. That's why I need a loan.
+<end=dialog>
+<topic=A Cashier>
+<start=dialog>
+Brenda: What kind of work do you do? --what
+Ralph: I'm a cashier at a supermarket.
+Brenda: Do you like your job? --yn
+Ralph: No, It's not very interesting.
+Brenda: And you don't make much money.
+Ralph: That's right. I make very little.
+Brenda: I think you should look for another job.
+Ralph: I am, but it's not easy to find one.
+Brenda: Keep looking! You'll get one.
+Ralph: Thanks. I hope you're right.
+<end=dialog>
+<topic=Settling Down>
+<start=dialog>
+Mrs Bates: How are you settling in? --how_adj
+Neal: Oh, we're still in a bit of a mess, but Lisa seems to like it here.
+Mrs Bates: That's good. Is there a garden for her to play in? --yn
+Neal: Yes, it's not very big, but we've got a small swimming pool.
+Mrs Bates: Have you found a school for Jerry? --yn
+Neal: Yes, there's one near here. It takes only 5 minutes by car.
+Mrs Bates: That's good. So you like it there, do you, Neal? --yn
+Neal: Yes, this is a very good place for my children.
+<end=dialog>
+<topic=Will You Get Some Bread For Me?>
+<start=dialog>
+Edna: Is there a bakery near here? --yn
+Alex: Yes, you can get there in five minutes.
+Edna: That's good. I don't have much time.
+Alex: Why are you going to the bakery? --why
+Edna: To buy birthday cake.
+Alex: Whose birthday is it? --who
+Edna: My daughter's. She's ten.
+Alex: That's nice. Will you get some bread for me? --yn
+Edna: Sure, do you want anything else? --yn
+Alex: No, thanks. I'll pay you when you get back.
+<end=dialog>
+<topic=Buying a Present  In a Jeweller's shop>
+<start=dialog>
+Robert: I'm trying to find a wedding anniversary present for my wife.
+Assistant: Yes, sir. What exactly are you looking for? --what
+Robert: I'm not sure, really. Perhaps you can help me.
+Assistant: Right...I'll show you some pendants.
+Robert: No, I bought a pendant for her birthday.
+Assistant: Maybe a necklace, then. These necklaces are made of gold.
+Robert: Yes...I like this one. What's the stone? --what
+Assistant: It's a ruby, sir...and it's only $1200!
+Robert: Ah...well, perhaps you could show me some bracelets, then.
+<end=dialog>
+<topic=Buying a Present  In a Toy Shop>
+<start=dialog>
+Mrs Bays: Good morning. Perhaps you can advise me...
+Assistant: Yes, ma'am.
+Mrs Bays: I'm looking for a toy...for my niece.
+Assistant: Oh, yes...how old is she? --how_adj
+Mrs Bays: She'll be seven years old on Sunday.
+Assistant: Skateboards are still very popular.
+Mrs Bays: Hmm, I don't want her to hurt herself.
+Assistant: What about a Barbie Doll set? --how_about
+Mrs Bays: I don't think so. She has many Barbie Dolls. Have you got anything educational? -- You see she's a very intelligent girl.
+Assistant: I've got the perfect thing! A do it yourself kit where you can build your own Barbie Doll who rides a skateboard!
+<end=dialog>
+<topic=Making a Reservation>
+<start=dialog>
+Peter: Can I get some tickets for plays? --yn
+Teller: Yes. Is there a specific play that you want to see? --yn
+Peter: What plays are on tonight? --what
+Teller: Cats. But it's sold out.
+Peter: Are there any seats left for tomorrow night? --yn
+Teller: Yes. How many tickets do you want? --how_many
+Peter: Two, please.
+Teller: Where would you like to sit? --where
+Peter: I'm not sure.
+Teller: Well, here's a seating plan of the concert hall.
+Peter: How much is it in the middle section? --how_much
+Teller: $50.
+Peter: $50! That's a little too expensive for us. How much is it in the back? --how_much
+Teller: $35.
+Peter: That's fine. What time does the play start? --what
+Teller: At 7:00.
+Peter: What time will the play be over? --what
+Teller: At 9:30.
+<end=dialog>
+<topic=Ready to Go>
+<start=dialog>
+Sidney: Are you ready? --yn
+Deborah: Grace is still in her room.
+Sidney: She needs to rush. We don't have enough time.
+Deborah: What time does the movie begin? --when
+Sidney: It starts at seven thirty.
+Deborah: What's the time now? --what
+Sidney: About seven ten.
+Deborah: There's no hurry. It only takes ten minutes by car to get there.
+Sidney: I know, but there aren't enough parking spaces around the theatre.
+Deborah: Well, I'd better tell Grace to hurry up. She can take hours to get ready.
+<end=dialog>
+<topic=An Interesting Movie>
+<start=dialog>
+Edith: I thought that movie was terrific, didn't you? --yn
+Martin: I don't know. It didn't seem to have any meaning.
+Edith: Come on. It seems that you expect intellectual stimulation from every movie.
+Marin: I just think that a good movie should have a central theme at least.
+Edith: Yes. But it doesn't hurt you to watch a funny movie once in a while. Relax and enjoy it!
+Martin: You're right. I'm too serious sometimes.
+<end=dialog>
+<topic=In the Bus>
+<start=dialog>
+Raymond: I see you're reading Harry Potter. How do you like it? --how_to
+Victoria: I can't put it down. Have you read it? --yn
+Raymond: Yes. In fact, I just finished it. The ending's great...
+Victoria: Don't tell me! I only have fifty pages to go.
+Raymond: OK, I won't tell you who dies.
+Victoria: DON'T TELL ME ANYTHING!
+Raymond: OK, but I'm biting my tongue.
+Victoria: Good, bite hard!
+Raymond: Such a shame though.
+Victoria: What is? --what
+Raymond: That Harry dies.
+Victoria: AHHHHH!!!
+<end=dialog>
+<topic=A New Job>
+<start=dialog>
+Miss Wallace: Mr. Adams, have you seen this ad in the Recruit News? --yn
+Mr. Adams: Yes, I saw it, but I'm not interested in finding a new job. I've been here since I graduated from my university. I like working here.
+Miss Wallace: Really? -- I've only been here for one year, and I'm already tired of doing the same thing every day. I'm afraid of getting really bored.
+Mr. Adams: Oh, come on! It's not that bad. Wherever you work, you have to do the same thing every day to a certain degree.
+Miss Wallace: Well, what's more, I've been working about ten hours a day since last month.
+Mr. Adams: But you've been getting paid more money for it, haven't you? --yn
+Miss Wallace: Yes, but I'm not interested in making more money. I'm going to apply for another job.
+Mr. Adams: What kind of job? --what
+Miss Wallace: A secretarial job.
+Mr. Adams: Well, good luck.
+Miss Wallace: Thank you very much!
+<end=dialog>
+<topic=A Date (2)>
+<start=dialog>
+Sandy: Hello? --yn
+Gill: Sandy? --ny Is that you? --yn
+Sandy: Yes, uhhuh. Who's this? --who
+Gill: It's Gill.
+Sandy: Gill? --yn Gill who? --who
+Gill: What you do you mean, "Gill who?" --yn Gill Dixon, of course.
+Sandy: Oh, Gill, I'm sorry.
+Gill: Yes. We had a date last night. Where were you? --where I waited for one hour.
+Sandy: Oh, I'm sorry, Gill. I couldn't come.
+Gill: Couldn't come! Why not? --why
+Sandy: Well, I had to pack my stuff for my trip.
+Gill: Why didn't you call me? --why
+Sandy: I wanted to call you, butuhIuh couldn't remember your phone number.
+Gill: And now I'm going to forget yours!
+<end=dialog>
+<topic=Smoking>
+<start=dialog>
+Tony: Do you smoke? --yn I've never known that. When did you start smoking? --when
+Jane: I started smoking when I was eighteen.
+Tony: So, how long have you been a smoker? --lo
+Jane: I have smoked for twenty years.
+Tony: How many cigarettes do you smoke a day? --how_many
+Jane: I smoke two packs of cigarettes a day.
+Tony: Have you ever tried to quit? --yn
+Jane: Yes, I have quit twice: once when I was expecting my baby, Paul, and the other time when I had a bad sore throat. But I had a hard time.
+Tony: If you knew what it was doing to your lungs, you would think twice about it!
+<end=dialog>
+<topic=A Death>
+<start=dialog>
+Martha: Did you hear about the Smith family? --yn
+Charles: No, what happened? --what
+Martha: Mrs. Smith passed away this morning.
+Charles: That's a shame. What from? --what
+Martha: Heart attack, I think.
+Charles: That's a terrible thing.
+Martha: Yes. Mrs Smith went into hospital last night by ambulance and died this morning.
+Charles: Had she been suffering from heart disease? --yn
+Martha: Yeah. Mrs Smith had it for five years before she died.
+Charles: Did they try surgery? --yn
+Martha: She had two operations, but they weren't effective.
+Charles: I feel sorry for Mr. Smith.
+<end=dialog>
+<topic=A Birth>
+<start=dialog>
+Martha: Have you heard about the good news in the Wallace family? --yn
+Charles: No, I've been out of town.
+Martha: Mrs Wallace went into the hospital last night and gave birth to a baby girl seven hours later.
+Charles: That's very good. But they already have a little girl, don't they? --yn
+Martha: No, they have a five years old boy.
+Charles: So they wanted a girl this time, right? --yn
+Martha: Yes, they wanted a girl for a long time.
+Charles: Was it natural childbirth? --yn
+Martha: No, she had to have a caesarean.
+<end=dialog>
+<topic=A Coincidence>
+<start=dialog>
+Timothy: Teresa! What a surprise! What are you doing here? --what
+Teresa: Timothy! I don't believe it! I'm going to see my daughter. She will marry this weekend. How about you? --how_about
+Timothy: I'm going to visit my parents. When is your daughter's wedding? --when
+Teresa: Sunday.
+Timothy: Wow! This Sunday is the 45th wedding anniversary of their wedding, too.
+Teresa: This is a surprise! Anyway, where is your train leaving from? --where
+Timothy: My train leaves from Platform 3, over there.
+Teresa: How long will you...
+Announcer: Now leaving from Platform 3, train for Vancouver.
+Timothy: That's my train. I have to run. Sorry we didn't have more time to talk.
+Teresa: That's OK. I'll see you when you get back. Have a good time, and say congratulations to your parents!
+<end=dialog>
+<topic=How have you been?>
+<start=dialog>
+Grace: Raymond!
+Raymond: Oh, hi, Grace! How have you been? --how_adj
+Grace: Good! I hear you have been to Toronto for a few days.
+Raymond: Yes. I just got back yesterday.
+Grace: Did you have a nice visit? --yn
+Raymond: Really nice. It was very good going around downtown and shopping. And I saw the Toronto Blue Jays game at Skydome. It seems that Toronto is a very exciting city. My brother Stanley was there, too. You've met Stanley, haven't you? --yn
+Grace: Sure. I met him when he was here in Hamilton last year. What's he doing these days? --what Still teaching baseball? --yn
+Raymond: Yes, as matter of fact, he just began to teach elementary school.
+Grace: Great. How's everything with his kids? --how_adj
+Raymond: Have you met my nieces? --yn
+Grace: Yes, they visited you once in the summer, didn't they? --yn
+Raymond: Right. They're both fine.
+Grace: I haven't seen them in a long time. They must be really big.
+Raymond: Well, they will come over this Christmas. Let's have a great Christmas party together.
+Grace: That's a good idea.
+<end=dialog>
+<topic=Telephone Call (2)>
+<start=dialog>
+Dave: Hello, Jack. This is Dave. I want to return the book I borrowed from you last night. Will you be at home at about six o'clock? --yn
+Jack: Yes, I will. I will be cooking dinner.
+Dave: Oh! Well. Then I won't come over at six.
+Jack: Why not? --why
+Dave: I don't want to disturb you.
+Jack: Don't worry! You won't disturb me.
+Dave: OK. I will see you at six.
+<end=dialog>
+<topic=What's A Grant?>
+<start=dialog>
+Ted: My daughter is going to college.
+Keith: That's great, but it must be expensive.
+Ted: Yes, but she has a grant.
+Keith: A grant? --yn What's a grant? --what
+Ted: The government is giving her money.
+Keith: To pay for her education? --yn
+Ted: That's right.
+Keith: Does it pay for everything? --yn
+Ted: No, she has a loan, too.
+Keith: What's the difference between a loan and a grant? --what
+Ted: You have to pay back a loan; a grant is a gift.
+<end=dialog>
+<topic=I'm Busy On Friday>
+<start=dialog>
+John: Would you like to go to a pop concert? --yn
+Chris: Well, I'd like to... but when is it? --when
+John: On Friday evening.
+Chris: What a pity! I'm busy on Friday.
+John: Maybe you could change your plans? --yn It's going to be a really great concert.
+Chris: Maybe I will, I wouldn't want to miss it.
+John: Great, I'll see you Friday!
+<end=dialog>
+<topic=Bless You>
+<start=dialog>
+Wild: Ahchoo!
+Smith: God bless you!
+Wild: Thank you.
+Smith: Do you have a cold? --yn
+Wild: Yes, that's why I'm sneezing so much.
+Smith: I hope you feel better soon.
+Wild: I get a bad cold every winter.
+Smith: Are you taking anything for your cold? --yn
+Wild: I'm taking Contact.
+Smith: Does it help? --yn
+Wild: Yes, but it makes me sleepy.
+Smith: You'd better not drive then!
+<end=dialog>
+<topic=I Don't Feel Well>
+<start=dialog>
+Phil: What are you looking for? --what
+Donald: My jacket. I'm going to the doctor.
+Phil: Why? --why What's the problem? --what
+Donald: I'm not sure, but I don't feel well.
+Phil: Do you have a fever? --yn
+Donald: No, but I have a pain in my chest.
+Phil: What time is your appointment? --when
+Donald: Eleven-thirty. I'm going now. Bye.
+Phil: Goodbye. I hope it's nothing serious.
+Donald: Thanks. See you.
+<end=dialog>
+<topic=Can You Help Me?>
+<start=dialog>
+Ron: Can you help me, officer? --yn
+Steve: I'll try. What's the problem? --what
+Ron: I can't get into my car.
+Steve: Where are your keys? --where
+Ron: They're in the car.
+Steve: Don't worry. I can open it.
+Ron: How can you do that? --how_to
+Steve: With a coat hanger. It's easy.
+Ron: Where can we get a coat hanger? --where
+Steve: There's one in the police car. Wait here.
+Ron: Thanks a lot! You're very kind.
+<end=dialog>
+<topic=Taking a Cab>
+<start=dialog>
+Cab Driver: Hello.
+Michael: Hello.
+Cab Driver: Where do you want to go? --where
+Michael: 70 Maple Street, please.
+Cab Driver: 70 Mibble Street.
+Michael: No, Maple street.
+Cab Driver: Maple Street...let's see... Is that near St. David Street? --yn
+Michael: I don't know. I've been here only one week.
+Cab Driver: Oh, where are you from? --where
+Michael: Toronto.
+<end=dialog>
+<topic=I Hate to Get Up>
+<start=dialog>
+Mike: I hate to get up in the morning.
+Ray: Me too! What time do you get up? --when
+Mike: At six o'clock.
+Ray: Why do you get up so early? --why
+Mike: I have to be at work by seven.
+Ray: I don't get up until eight.
+Mike: You're lucky. What do you do? --what
+Ray: I own a bookstore.
+Mike: What time does your store open? --what
+Ray: At eight-thirty.
+<end=dialog>
+<topic=A Hot Day>
+<start=dialog>
+Mel: This heat is killing me!
+Matthew: Me too! It must be ninety-five degrees.
+Mel: I would like a cold drink.
+Matthew: I'll get you one.
+Mel: Thanks. Mmm. This tastes good!
+Matthew: It does, jeez, this hot weather makes me lazy.
+Mel: Me too, get me another drink? --yn
+Matthew: I guess if you're lazy no one else is allowed to be!
+Mel: He he he, thanks for understanding!
+<end=dialog>
+<topic=Phone Out of Order (1)>
+<start=dialog>
+Gerald: Hey! Hey!
+Walter: What's wrong? --what
+Gerald: There is something wrong with the phone. I'm getting a strange noise.
+Walter: Are you? --yn I can hear you very clearly.
+Gerald: Hello! Hello!
+Walter: This pay phone might be out of order. I'll call you again with another phone....
+Walter: Hello! How about now? --how_about Is there still a strange noise? --yn
+Gerald: Yes. Perhaps my phone is out of order.
+Walter: You should get in touch with the phone company.
+<end=dialog>
+<topic=Phone Out of Order (2)>
+<start=dialog>
+Gerald: Hey! What's the matter with the phone? --what (Handing the receiver to B) Listen to this peculiar noise.
+Thomas: It doesn't sound like a dial tone.
+Gerald: It must be out of order. We'd better notify the phone company.
+Thomas: How do we do that? --how_to We can't use the phone.
+Gerald: Let's go next door and use our neighbour's phone.
+Thomas: He's always complaining about people. I don't want to ask any favours of him.
+Gerald: How about across the street? --how_about
+Thomas: I forgot about Mrs. Riley! I'm sure she'd let us use her phone.
+<end=dialog>
+<topic=Getting A Visa>
+<start=dialog>
+Henry: Does it take long to get a visa? --yn
+Mr. Chandler: It depends on the season. Anywhere from one month to two months.
+Henry: What do I need to do? --what
+Mr. Chandler: Fill out an application form and wait.
+Henry: Will there be a long waiting period? --yn
+Mr. Chandler: Not if you don't run into any government delays.
+<end=dialog>
+<topic=Employing a new member>
+<start=dialog>
+Mr Orwell: Well, this woman may be suitable for the job. But is she energetic enough? --yn
+Mr Bays: Yes, she certainly seems to have lots of energy.
+Mr Orwell: Mm. She's got to be ambitious too. Is she? --yn
+Mr Bays: Yes, she has plenty of ambition.
+Mr Orwell: And we really need a flexible sort of person. Do you think she is? --yn
+Mr Bays: Mm. She seems to be determined enough, but she's a little tough.
+Mr. Orwell: Well I guess we will give her a try, and see how she works out!
+<end=dialog>
+<topic=A Date (1)>
+<start=dialog>
+Harry: What are you so happy about? --what You're grinning from ear to ear.
+Gill: Sandy and I are going to go out this weekend.
+Harry: Oh, yeah? --yn That's fast work. That's great! Which night are you going to see her Friday or Saturday? --which
+Gill: On Friday. She isn't going to be in town on Saturday and Sunday. She's going to visit a friend in Quebec.
+Harry: What are you going to do on Friday? --what
+Gill: I don't know yet. Do you have any ideas? --yn
+Harry: How about taking her out to a Chinese restaurant? --how_about I've heard that she likes Chinese food.
+Gill: That's a great idea.
+Harry: What are you going to wear on your date? --what
+Gill: I am going to wear my new suit.
+Harry: That's too formal. Wear your jeans and a Tshirt.
+Gill: How about your sports jacket? --how_about Are you going to wear it Friday night? --yn
+Harry: No, I am not. Go ahead and wear it.
+<end=dialog>
+<topic=What did you do yesterday?>
+<start=dialog>
+Richard: Hi, how are you? --how_adj You look tired. Did you sleep okay last night? --yn
+Dave: No, I didn't.
+Richard: Why? --why What did you do yesterday? --what
+Dave: I went to a nightclub last night and danced all night.
+Richard: Oh, yeah? --yn Did you have a good time? --yn
+Dave: I had a wonderful time, but I'm beat today.
+Richard: What time did you leave the nightclub? --when
+Dave: I left at about 3:00 a.m.
+Richard: I'm not surprised that you're tired. Which nightclub did you go to? --which
+Dave: Fantastic. It's on Ontario Street. It's really nice.
+<end=dialog>
+<topic=Travelling by Air>
+<start=dialog>
+Henry: Do I check in here for Air Canada to Mexico? --yn
+Mr. Silver: Do you already have your ticket? --yn
+Henry: Yes. Here you are.
+Mr. Silver: Thank you. Can you put your luggage up here, please? --yn
+Henry: Sure, I have three suitcases.
+Mr. Silver: We allow only two pieces. You'll have to pay an extra charge.
+Henry: Oh! Can I carry this one with me? --yn
+Mr. Silver: No, I'm sorry. It won't fit under your seat. That's $45.00.
+Henry: Here you are.
+Mr. Silver: Thank you. You can choose your seat. A window seat or aisle seat? --yn
+Henry: I'd like a window seat, please.
+Mr. Silver: Fine. Seat 15A. Here's your ticket and your boarding pass. Enjoy your flight!
+<end=dialog>
+<topic=At the Customs>
+<start=dialog>
+Customs Officer: Good morning. Can I see your passport? --yn
+Clark: Certainly. Here it is.
+C.O.: Yes, that's all right. Have you got anything to declare? --yn
+Clark: Yes, I have. I've got some whisky and some cigarettes.
+C.O.: How much whisky have you got? --how_much
+Clark: A litre.
+C.O.: That's all right. And how many cigarettes have you got? --how_many
+Clark: Two hundred.
+C.O.: Fine. What about perfume? --how_about
+Clark: Er...No, I haven't.
+C.O.: Good. Open your case, please.
+Clark: Pardon? --yn
+C.O.: Open your case, please. Open it now! Oh, dear! Look at this! You've got three bottles of whisky, four hundred cigarettes and a lot of perfume!
+Clark: Does that mean I can't go? --yn
+<end=dialog>
+<topic=A New Baby>
+<start=dialog>
+Mr Palmer: Well, hello, Mr Wallace. You seem unusually happy today.
+Mr Wallace: I just became a father!
+Mr Palmer: Congratulations. A boy or a girl? --selection
+Mr Wallace: You never saw such a cute girl. Nine pounds, three ounces...and as cute as a button.
+Mr Palmer: Doesn't this call for cigars? --yn
+Mr Wallace: Oh, yes. I forgot about the cigars. Here, have one.
+Mr Palmer: Thank you. How is your wife? --how_adj
+Mr Wallace: She's just fine.
+<end=dialog>
+<topic=Is English Difficult?>
+<start=dialog>
+Nancy: Where are you going? --where
+Maggie: To Canada.
+Nancy: Why are you going there? --why
+Maggie: I'm going to learn English; there is a school there that has an excellent program.
+Nancy: Is learning English going to be difficult? --yn
+Maggie: Yes. I have to study and practice a lot.
+Nancy: Where is your school? --where
+Maggie: It's in a town called St.Catharines. In Ontario.
+Nancy: I'm jealous, I'll bet you're excited.
+Maggie: Yes, but I'm also really nervous.
+<end=dialog>
+<topic=Washing His Car>
+<start=dialog>
+Debbie: Where's Kevin? --where
+Tania: He's in front of the house.
+Debbie: What is he doing? --what
+Tania: Washing his car.
+Debbie: Not again? --yn
+Tania: Yes, he takes good care of his car.
+Debbie: But he never cleans his room.
+Tania: I know. It's always dirty.
+Debbie: And nothing is in order.
+Tania: You're right. His room is a mess.
+Debbie: Maybe he should move into his car!
+<end=dialog>
+<topic=At the Restaurant>
+<start=dialog>
+Jamie: This is a big menu.
+Katy: Yeah, what are you getting? --what
+Jamie: Chicken, peas, and baked potatoes.
+Katy: I don't know what to get.
+Jamie: They have very good turkey.
+Katy: I had turkey yesterday.
+Jamie: How about steak? --how_about
+Katy: Perfect. I'll get steak and mashed potatoes.
+Jamie: What vegetable are you getting? --what
+Katy: I'm not getting any. I don't like vegetables.
+<end=dialog>
+<topic=When's the Baby Due?>
+<start=dialog>
+Sharon: I have some good news.
+Mel: What is it? --what
+Sharon: Lisa is going to have a baby.
+Mel: That's great! I'm so happy for her.
+Sharon: Me too!
+Mel: Do they want a boy or a girl? --selection
+Sharon: A girl.
+Mel: When's the baby due? --when
+Sharon: In the beginning of September.
+Mel: I'm going to phone Lisa tonight.
+Sharon: That's nice. Say hello for me.
+<end=dialog>
+<topic=Bus Stop>
+<start=dialog>
+Barbara: Jean!
+Jean: Barbara! Do you work around here? --yn
+Barbara: Yes, I work in that building across the street.
+Jean: Really? --yn What do you do? --what
+Barbara: I work in a law office, I'm a secretary.
+Jean: Oh, that's interesting.
+Barbara: What about you? --how_about What do you do? --what
+Jean: I work at Duru Restaurant.
+Barbara: Oh...are you a cook? --yn
+Jean: No, I'm a waitress.
+Barbara: That's a really hard job; I don't envy you.
+Jean: Me neither! (In the bus)
+Barbara: Do you live alone, Jean? --yn
+Jean: No, I don't. I live with my family. How about you? --how_about
+Barbara: I'm married now. I got married last year.
+Jean: Really? --yn Congratulations!
+Jean: Whom did you marry? --who
+Barbara: His name's Jeff Hunt. He lives in my building.
+Jean: Oh, what does he do? --what
+Barbara: He's a doctor.
+Jean: How wonderful, I'm very happy for you!
+<end=dialog>
+<topic=Gardening>
+<start=dialog>
+Constance: Your garden is really lovely.
+Gwen: Thank you. I enjoy working in the garden.
+Constance: Do you do everything yourself? --yn
+Gwen: I trim the bushes and weed the flowerbeds myself.
+Constance: Who cuts the grass? --who
+Gwen: Oh, it's so big that I hire one of the boys in the neighbourhood to do it for me.
+Constance: Well, I must say he does a good job.
+Gwen: Yes. His work is more than satisfactory.
+<end=dialog>
+<topic=A Lazy Boy>
+<start=dialog>
+Sheila: I'm very angry with my son, Harry.
+Connie: Why? --why What's the problem? --what
+Sheila: He's not doing well in school.
+Connie: That's a surprise. Harry is a smart boy.
+Sheila: Yes, but he never studies.
+Connie: Did you talk to his teachers? --yn
+Sheila: Yes, I did.
+Connie: What did they say? --what
+Sheila: He's a nice boy, but he's very lazy.
+Connie: Maybe they're right.
+Sheila: I'm afraid so.
+Connie: Have you thought about getting him a tutor? --yn
+Sheila: Maybe that's a good idea; I really want him to excel.
+Connie: Let's go look in the phone book now then.
+<end=dialog>
+<topic=Can I Drive There?>
+<start=dialog>
+Maggie: What time is it? --what
+Fran: It's three o'clock.
+Maggie: Oh no, I'm late.
+Fran: Where are you going? --where
+Maggie: To the dentist.
+Fran: Can I drive you there? --yn
+Maggie: Sure! That will help.
+Fran: Do you have a toothache? --yn
+Maggie: Yes, and it's very bad.
+Fran: I'm sorry to hear that.
+Maggie: I've had it for weeks, and this is the first time that I could get in. My dentist is always so busy!
+Fran: I guess that's a good thing! It means a lot of people like him.
+<end=dialog>
+<topic=A New Dress>
+<start=dialog>
+Kay: Who is it? --who
+Pamela: It's me, dear.
+Kay: Don't you have your key? --yn
+Pamela: No, let me in! (Lets her in)
+Kay: What's in that box? --what What did you get? --what
+Pamela: A new dress, honey.
+Kay: But you have a closet full of dresses.
+Pamela: I know, but I need a new one.
+Kay: What's wrong with all the other dresses? --what
+Pamela: They're not this one!
+<end=dialog>
+<topic=A Picnic>
+<start=dialog>
+Louise: Let's go for a picnic.
+Esther: That's a great idea! Where shall we go? --where
+Louise: Let's go to the park.
+Esther: How far is it? --how_far
+Louise: About a mile.
+Esther: Is it a nice place? --yn
+Louise: Sure. It has picnic tables and a beautiful lake.
+Esther: Good. I'll make some sandwiches.
+Louise: I'll bring soda and cookies.
+Esther: The kids will love it.
+<end=dialog>
+<topic=I'm Going Skiing>
+<start=dialog>
+Laura: We've got ten inches of snow.
+Stacy: Wow! That's terrific!
+Laura: What's so terrific about it? --what
+Stacy: I'm going skiing.
+Laura: Skiing? --yn Are you serious? --yn
+Stacy: Yes. It's a lot of fun.
+Laura: Maybe, but it's also dangerous.
+Stacy: You need to live on the edge!
+Laura: And you need to make sure you don't fall off it!
+<end=dialog>
+<topic=Traffic Rules (1)>
+<start=dialog>
+Kay: Sara! You can't park here! It's a bus stop.
+Sara: Oh, we'll be back in a few minutes. It's OK.
+Kay: Oh, no, it isn't. You'll get a parking ticket if you leave it here.
+Sara: No, I won't. It's half past five. All the traffic wardens have gone home.
+Kay: Sara!
+Sara: Yes? --what
+Warden: Is this your car, ma'am? --yn
+<end=dialog>
+<topic=Housework>
+<start=dialog>
+Wendy: Whew! I'm really tired and now I have to go home and cook.
+Sue: Do you make dinner every night? --yn
+Wendy: Yes, I usually make dinner, and my husband washes the dishes.
+Sue: I live alone, so I do everything. Sometimes I eat out, though. There are some good restaurants in my neighbourhood.
+Wendy: Where do you live? --where
+Sue: Near the Pen Centre.
+Wendy: That's good. There aren't any good restaurants near my house.
+Sue: Does your husband help you do housework much? --yn
+Wendy: Umm...yes. He sets the table almost every night, and he makes our bed every morning. But I usually make all the meals.
+Sue: How about cleaning? --how_about
+Wendy: We clean the house together every weekend. I vacuum the rooms, and he usually sweeps the floor of the kitchen, and he does yard work.
+Sue: Your husband helps you so much. Does he help do the laundry too? --yn
+Wendy: Well, he's never helped me do the laundry.
+<end=dialog>
+<topic=Oral Exams>
+<start=dialog>
+Mary: Hey, Cindy! Have you finished the exam? --yn
+Cindy: Yes, I have. Whew!
+Mary: Was it hard? --yn
+Cindy: Well, yes. It was hard pretty hard.
+Mary: Did you pass? --yn
+Cindy: I don't know. Mrs. Lester didn't tell me.
+Mary: What questions did she ask? --what
+Cindy: First she asked me what my name was.
+Mary: That was easy, wasn't it? --yn
+Cindy: Yes, except I couldn't remember! Then she asked me where I came from, and how long it took to get here from my country.
+Mary: And what else did she ask? --what
+Cindy: She asked how long I'd been studying English here in Canada, and she asked how I would use English in the future.
+Mary: Yes, yes, go on.
+Cindy: Then she asked me to explain the difference between my country and Canada.
+Mary: Anything else? --what
+Cindy: I'm trying to remember. Oh, yes! She asked if I spoke any other language.
+Mary: Is that all? --yn
+Cindy: Oh, there were a lot of other questions. She asked me what my hobbies were, where I visited in Canada. Then I was asked to read a passage.
+Mary: What did she say at the end? --what
+Cindy: Hmm. Let's see... Oh, Yes! She asked me to tell you to go inright away.
+<end=dialog>
+<topic=Would You Call me?>
+<start=dialog>
+Angela: Well, see you tomorrow.
+Vicky: I'd better go, too. Oh, would you do me a favour? --yn
+Angela: Sure.
+Vicky: Would you call me tomorrow at six o'clock in the morning? --yn Tomorrow is my daughter's birthday. I want to get her a new robe, and I have to pick up the dry cleaning, and pick up the cake from the bakery. Anyway, I have lots of things to do. But I'm not sure I can get up early.
+Angela: Do you need a hand? --yn
+Vicky: Oh, can you? --yn That would be great; can you go to the mall and buy her a new robe, pick up the dry cleaning, and get the cake from the bakery? --yn
+Angela: And what will you be doing? --what
+Vicky: Sleeping in of course!
+<end=dialog>
+<topic=Can I Let You Know?>
+<start=dialog>
+Margaret: Are you going out with Leonard tonight? --yn
+Frances: Uhhuh. He's supposed to pick me up at six thirty. What time is it now? --what
+Margaret: Quarter to six. You'd better get going.
+Frances: You're kidding. I haven't even taken a shower.
+Margaret: Where are you going? --where
+Frances: We haven't made up our minds yet. Maybe to a movie, maybe to a party.
+Margaret: Go and see Forrest Gump. It's supposed to be interesting.
+Frances: Oh, maybe we will. I've heard The Sixth Sense is good, too.
+Margaret: Well, personally I prefer Forrest Gump. I really should be going. Do you want to go shopping tomorrow? --yn
+Frances: I'd like to go, but it depends. I might have to go to the store tomorrow and do some work. Can I let you know first thing in the morning? --yn
+Margaret: OK, that would be all right. (Rrring, rrring)
+Frances: Oh, there's the phone. It must be Leonard.
+Margaret: Well, I'll be going. Call me up tomorrow.
+Frances: I will. Have a good evening.
+Margaret: You too.
+<end=dialog>
+<topic=At Home (1)>
+<start=dialog>
+Scott: Where is Jane? --where
+Patricia: She is in the living room.
+Scott: What is she doing? --what
+Patricia: She is playing the piano.
+Scott: Where is the car? --where
+Patricia: It is in the garage.
+Scott: Where is the dog? --where
+Patricia: The dog is in front of the door.
+Scott: What is the dog doing? --what
+Patricia: The dog is eating.
+<end=dialog>
+<topic=At Home (2)>
+<start=dialog>
+Husband: Where you are? --where
+Wife: I am in the kitchen.
+Husband: What are you doing? --what
+Wife: I am cooking dinner.
+Husband: Where are Bill and Mary? --where
+Wife: They are in the living room.
+Husband: What are they doing? --what
+Wife: They are watching TV.
+Husband: Where is the cat? --where
+Wife: she is in the dining room.
+Husband: What is she doing? --what
+Wife: She is sleeping.
+<end=dialog>
+<topic=My Favorite Photographs (1)>
+<start=dialog>
+Susan: Who is she? --who
+Roger: She is my sister.
+Susan: What's her name? --what
+Roger: Her name is Jennifer.
+Susan: Where is she in this photograph? --where
+Roger: She's in Toronto.
+Susan: What is that building behind her? --what
+Roger: She's standing in front of the CN Tower.
+<end=dialog>
+<topic=Location (1)>
+<start=dialog>
+Edward: Where is the school? --where
+Diana: It's between the library and the park.
+Edward: Where is the post office? --where
+Diana: It's across from the movie theater.
+Edward: Where is the royal bank? --where
+Diana: It's next to the supermarket.
+Edward: Where is the gas station.
+Diana: It's around the corner from the church.
+Edward: Where is the barbershop? --where
+Diana: It's near the bus station.
+<end=dialog>
+<topic=Location (2)>
+<start=dialog>
+Scott: Excuse me? --wherexcuse_me Can you tell me the way to the nearest bank? --yn
+Ann: Yes, it's on Geneva Street. As a matter of fact, I am going that way myself. So if you come with me, I will show you.
+Scott: Thanks very much.
+Ann: You are welcome.
+<end=dialog>
+<topic=Color (1)>
+<start=dialog>
+Stewart: May I help you? --yn
+Sera: Yes, please. I am looking for an umbrella.
+Stewart: What's your favorite color? --what
+Sera: It's black.
+Stewart: Sorry, we have no black umbrella right now. Here is a nice umbrella.
+Sera: But this umbrella is yellow.
+Stewart: That's OK. Yellow umbrellas are very popular this year.
+<end=dialog>
+<topic=Color (2)>
+<start=dialog>
+Allen: Excuse me? --wherexcuse_me Is this your umbrella? --yn
+Sera: No, it isn't.
+Allen: Are you sure? --yn
+Sera: Yes, I am sure. That umbrella is brown, and my umbrella is yellow.
+<end=dialog>
+<topic=No Questions>
+<start=dialog>
+Dennis: Are you married? --yn
+Jane: No, I'm not. I'm single.
+Dennis: Tell me about your new car. Is it large? --yn
+Jane: No, it's not. It is small.
+Dennis: Tell me about the questions in your English book. Are they difficult? --yn
+Jane: No, they're not. They are easy.
+Dennis: Tell me about your new neighbors? --yn Are they quiet? --yn
+Jane: No, they aren't. They are noisy.
+<end=dialog>
+<topic=Short Answer>
+<start=dialog>
+Linda: Is Alice young or old? --yn
+Glen: She is young.
+Linda: Is Bill tall or short? --yn
+Glen: He is short.
+Linda: Is Albert's apartment big or little? --selection
+Glen: It's small.
+Linda: Were the last examinations easy or difficult? --yn
+Glen: They were difficult.
+Linda: Is Julie married or single? --selection
+<end=dialog>

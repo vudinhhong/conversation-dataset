@@ -1,0 +1,2186 @@
+<resource=https://www.eslfast.com/easydialogs/>
+<topic=daily_life>
+<start=dialog>
+A: Where do you live? --where
+B: I live in Pasadena.
+A: Where is Pasadena? --where
+B: It's in California.
+A: Is it in northern California? --yn
+B: No. It's in southern California.
+A: Is Pasadena a big city? --yn
+B: It's pretty big.
+A: How big is "pretty big"? --how_big
+B: It has about 140,000 people.
+A: How big is Los Angeles? --how_big
+B: It has about 3 million people.
+<end=dialog>
+<start=dialog>
+A: Do you have a car? --yn
+B: Yes, I do.
+A: What kind of car do you have? --what
+B: I have a Honda.
+A: Is it new? --yn
+B: It was new in 2003.
+A: So, it's pretty old now.
+B: Yes, it is. But it still looks good.
+A: Do you take good care of it? --yn
+B: Oh, yes. I wash it once a week.
+A: Do you change the oil? --yn
+B: My mechanic changes the oil twice a year.
+<end=dialog>
+<start=dialog>
+A: Do you have a girlfriend? --yn
+B: No, I don't. Do you? --yn
+A: I don't have a girlfriend, either.
+B: Why not? --why
+A: I don't know. Maybe I'm not rich enough.
+B: Girls like guys with money.
+A: They sure do.
+B: They like guys with new cars.
+A: I don't have money or a new car.
+B: Me, neither.
+A: But girls like guys who are funny.
+B: Maybe we should learn some good jokes.
+<end=dialog>
+<start=dialog>
+A: Where are you going? --where
+B: I have to walk the dog.
+A: What kind of dog do you have? --what
+B: I have a little poodle.
+A: Poodles bark a lot.
+B: They sure do.
+A: They bark at everything.
+B: They never shut up.
+A: Why did you get a poodle? --why
+B: It's my mom's dog.
+A: So she likes poodles.
+B: She says they're good watchdogs.
+<end=dialog>
+<start=dialog>
+A: Can I borrow $5? --yn
+B: Sure. Why do you need it? --why
+A: I want to buy lunch.
+B: Where's your money? --where
+A: It's not in my wallet.
+B: Your wallet is empty? --yn
+A: I don't have even one dollar in it.
+B: Being broke is no fun.
+A: Even if it's only for a short while.
+B: It's always good to have friends.
+A: Friends will lend you money when you're broke.
+B: As long as you pay them back.
+<end=dialog>
+<start=dialog>
+A: Let's go to the beach.
+B: That's a great idea.
+A: We haven't been in a while.
+B: We haven't been in a month.
+A: The last time we went, you almost drowned.
+B: No, I didn't.
+A: Then why did the lifeguard dive into the water? --why
+B: I think he wanted to cool off.
+A: He swam right up to you.
+B: And then he turned right around.
+A: Maybe you're right.
+B: Maybe we should get going.
+<end=dialog>
+<start=dialog>
+A: Are you married? --yn
+B: No. I'm divorced.
+A: When did you get divorced? --when
+B: I got divorced two years ago.
+A: Why did you get divorced? --why
+B: My wife left me.
+A: Why did she leave you? --why
+B: She said she didn't love me anymore.
+A: Wow! That's terrible.
+B: Yes, it was.
+A: Why didn't she love you anymore? --why
+B: She fell in love with my best friend.
+<end=dialog>
+<start=dialog>
+A: I'm bored.
+B: What's on TV? --what
+A: Nothing.
+B: There must be something on TV!
+A: Nothing that's interesting.
+B: What about that new game show? --what
+A: Which one? --which
+B: "Deal or No Deal"
+A: Tell me you're joking.
+B: I love that show.
+A: I watched it once. That was enough.
+B: It's on right now. Let's watch it together.
+<end=dialog>
+<start=dialog>
+A: I like living here.
+B: I agree. Pasadena is a nice city.
+A: It's not too big.
+B: And it's not too small.
+A: It has great weather all year long.
+B: It has the Rose Parade.
+A: It has beautiful houses.
+B: It has wonderful restaurants.
+A: It has great schools.
+B: It's close to the mountains.
+A: The people are friendly.
+B: I'm not ever going to leave.
+<end=dialog>
+<start=dialog>
+A: We need a new mattress.
+B: What's the matter with this one? --what
+A: It's not comfortable.
+B: It seems fine to me.
+A: I toss and turn all night.
+B: You should stop drinking coffee.
+A: Look at these marks on my arms.
+B: What are they? --what
+A: They are bites.
+B: Did the cat bite you? --yn
+A: No. The bedbugs in that mattress bit me.
+B: Okay. Let's get a new mattress.
+<end=dialog>
+<start=dialog>
+A: My laptop is so slow.
+B: Buy a new one.
+A: I would if I had the money.
+B: Why is it so slow? --why
+A: That's a good question.
+B: Did you take it to a computer shop? --yn
+A: I would if I had the money.
+B: Well, I guess you have to live with it.
+A: Sometimes I want to throw it out the window.
+B: You don't want to do that.
+A: Why not? --why
+B: You might hit someone in the head.
+<end=dialog>
+<start=dialog>
+A: What's for dinner? --what
+B: I'm not sure.
+A: How about a pizza? --how_about
+B: You had pizza for lunch.
+A: But I love pizza.
+B: Everybody loves pizza.
+A: So why can't I have pizza for dinner? --why
+B: Because you need variety.
+A: What's "variety? --what
+B: Different things not the same thing all the time.
+A: You mean, like a pepperoni pizza instead of a cheese pizza? --yn
+B: No, I mean a salad instead of a pizza.
+<end=dialog>
+<start=dialog>
+A: We need to save money.
+B: Why do we need to save money? --why
+A: Because we need to buy a house.
+B: But a house is so expensive.
+A: That's why we need to save money.
+B: How much do we need to save? --how_much
+A: We need to save enough for a down payment.
+B: How much is that? --how_much
+A: That's about $30,000.
+B: Thirty thousand dollars! That will take forever.
+A: Not if we save every penny.
+B: Okay. Here's seven pennies.
+<end=dialog>
+<start=dialog>
+A: The ocean is so big.
+B: You can't see the end of it.
+A: It goes on and on forever.
+B: And it's deep, too.
+A: I think it's five miles deep.
+B: Are there fish at the bottom? --yn
+A: There are fish at the top and the bottom.
+B: Are there more fish or more people? --selection
+A: I think there are more fish.
+B: I hope so. I love to eat fish.
+<end=dialog>
+<start=dialog>
+A: I'm upset with my mom.
+B: Why is that? --why
+A: I warned her about her new boyfriend. She didn't listen to me.
+B: What happened? --what
+A: I gave her $1,000 for her birthday. I told her to spend it on herself.
+B: That was very nice of you.
+A: I found out that she gave it to her new boyfriend.
+B: Why did she do that? --why
+A: He said he would buy her a nice ring.
+B: What's wrong with that? --what
+A: He went to Las Vegas. He lost it all gambling.
+B: I hope your mom broke up with him.
+<end=dialog>
+<start=dialog>
+A: Do animals talk to each other? --yn
+B: Of course they talk to each other.
+A: What do they talk about? --what
+B: They talk about other animals.
+A: What else do they talk about? --what
+B: They talk about food and the weather.
+A: Do they talk about us? --yn
+B: Of course they talk about us.
+A: What do they say about us? --what
+B: They say that we are funny-looking.
+A: Ha! We're not funny-looking; animals are funny-looking.
+B: We're funny-looking because we wear clothes.
+<end=dialog>
+<start=dialog>
+A: I have to clean the house.
+B: Yes, it's very dirty.
+A: You can help me.
+B: Why me? --why
+A: Because you helped make it dirty.
+B: What do you want me to do? --what
+A: I want you to clean the bathroom.
+B: Oh, that's easy.
+A: Clean the sink, the tub, the counter, and the toilet.
+B: That's a lot of work.
+A: Tell me when you finish.
+B: I don't think so. You'll just give me more work.
+<end=dialog>
+<start=dialog>
+A: You're watching too much TV.
+B: What do you mean? --what
+A: I mean you're wasting your life.
+B: I'm having fun.
+A: You're sitting there with your mouth open.
+B: Who cares? --who
+A: I care. Do something.
+B: Okay. I did something.
+A: What did you do? --what
+B: I turned up the volume.
+A: That's not what I meant by "do something."
+B: Will you do something? -- Leave me alone.
+<end=dialog>
+<start=dialog>
+A: Did you write a letter to grandma? --yn
+B: Yes, I did.
+A: Did you tell her about school? --yn
+B: I told her that school is fun.
+A: Did you put the letter in an envelope? --yn
+B: Yes, and I sealed the envelope.
+A: Did you put a stamp on the envelope? --yn
+B: I couldn't find any stamps.
+A: They're in the kitchen drawer.
+B: Okay. I just put a stamp on the envelope.
+A: Give me the envelope, and I'll mail it for you.
+B: When is grandma going to learn about e-mail? --when
+<end=dialog>
+<start=dialog>
+A: Why are you yawning? --why
+B: I'm sleepy.
+A: Why don't you go to bed? --why
+B: I want to watch this TV show.
+A: Maybe you should record it.
+B: The tape recorder is broken.
+A: Then you should watch the rerun.
+B: Why? -- I'm watching the original.
+A: But you'll be asleep in about one minute.
+B: I'm just yawning because the commercials are on.
+A: Okay. I'll tell you how the show ends.
+B: Zzz.
+<end=dialog>
+<start=dialog>
+A: It's Sunday.
+B: So? --what
+A: You know what that means.
+B: I forgot.
+A: Sunday means we go to church.
+B: Oh, yeah.
+A: Put on a coat and tie.
+B: Why? --why
+A: To show respect to God and others.
+B: I'm glad Sunday is only once a week.
+A: I hope God didn't hear that.
+B: He'll forgive me.
+<end=dialog>
+<start=dialog>
+A: Did you feed the cat? --yn
+B: I'll do that in a minute.
+A: The cat is meowing. He's hungry.
+B: Okay. I'll feed him right now.
+A: You shouldn't make him wait.
+B: I was doing my homework.
+A: The cat doesn't care about your homework.
+B: The cat doesn't care about anything.
+A: That's the way cats are.
+B: All they think about is themselves.
+A: Maybe we should get rid of him.
+B: Of course not! He's family.
+<end=dialog>
+<start=dialog>
+A: I hate shaving.
+B: Me too.
+A: I just cut myself again.
+B: Did you use a new blade? --yn
+A: It doesn't matter. Old blades cut, new blades cut.
+B: Maybe you should use an electric shaver.
+A: They make a lot of noise, but they don't give a close shave.
+B: Maybe you should stop shaving.
+A: And grow a beard? --yn
+B: Sure. Why not? --why
+A: Because food and other stuff sticks in my beard.
+B: Hmm. Here's an idea. Put cream on your face and have the cat lick it off.
+<end=dialog>
+<start=dialog>
+A: Excuse me.
+B: Yes? --yn
+A: Are you reading this paper? --yn
+B: Oh, no. Help yourself.
+A: I asked because the paper is sitting next to you.
+B: Thank you. That's polite of you to ask.
+A: Some people would just pick it up.
+B: Yes, I know. Some people are rude.
+A: I always try to be polite.
+B: So do I.
+A: The world needs more polite people like us.
+B: I agree 100 percent.
+<end=dialog>
+<start=dialog>
+A: Mom, I want a puppy.
+B: Let me think about it.
+A: Why do you have to think about it? --why
+B: Because a puppy costs money.
+A: No, it doesn't. Puppies are free.
+B: Yes, but a puppy needs shots.
+A: Shots for what? --what
+B: So it won't get sick. Just like you get shots.
+A: I hate shots.
+B: And a puppy eats food. Food costs money.
+A: No problem. I'll give him food off my plate.
+B: Oh, no you don't. Puppies don't eat vegetables.
+<end=dialog>
+<start=dialog>
+A: Look at all these kittens!
+B: How many are there? --how_many
+A: Eight.
+B: They're all so cute.
+A: Yes, but I can't keep them.
+B: What are you going to do with them? --what
+A: I'm going to give them away. Do you want one? --yn
+B: Yes, I would love one.
+A: Which one do you want? --which
+B: That one. The one that's all black.
+A: Yes, I like that one, too.
+B: I'll call him Blacky.
+<end=dialog>
+<start=dialog>
+A: My parents go to church every Sunday.
+B: They trust in God.
+A: They hope they will go to heaven.
+B: They probably will.
+A: But no one knows for sure.
+B: That's for sure.
+A: No one knows what happens after we die.
+B: If we are good, we will be happy in heaven with God.
+A: That's what many people believe.
+B: If we are bad, we will be unhappy forever in hell.
+A: I don't want to go to hell.
+B: Let's go to church with your parents on Sunday.
+<end=dialog>
+<start=dialog>
+A: My husband died.
+B: I'm sorry for you.
+A: Thank you.
+B: When did he die? --when
+A: A couple of months ago.
+B: You still miss him.
+A: Yes, but I talk to him almost every day.
+B: When you go to church? --when
+A: No, when I call him on his cell phone.
+B: What do you mean? --what
+A: I buried him with his cell phone.
+B: What will you do when the battery dies? --what
+<end=dialog>
+<start=dialog>
+A: Today is Friday the thirteenth.
+B: That's a bad day.
+A: It's supposed to be unlucky.
+B: You're supposed to stay home all day.
+A: That's what I do.
+B: My friend stayed in a hotel on Friday the thirteenth.
+A: That was a mistake.
+B: He stayed on the thirteenth floor.
+A: What happened? --what
+B: Someone stole his laptop.
+A: He was asking for it.
+B: He learned his lesson. He's home today.
+<end=dialog>
+<start=dialog>
+A: Do you really love me? --yn
+B: Of course.
+A: Prove it.
+B: How can I prove it? --how_to
+A: Take me to dinner.
+B: That's it? --yn That's all I have to do? --yn
+A: Take me to a nice restaurant, not to McDonald's.
+B: But a nice restaurant costs money.
+A: Yes, and you have to make a reservation.
+B: That's such a hassle.
+A: I knew you didn't love me.
+B: Okay, okay! I'll make a reservation right now.
+<end=dialog>
+<start=dialog>
+A: My parents are divorced.
+B: So are mine.
+A: Why did your parents get divorced? --why
+B: My father found a new girlfriend.
+A: That's too bad.
+B: My mother was hurt and angry.
+A: She had good reason. What did she do? --what
+B: She told him to drop his girlfriend.
+A: What did your father do? --what
+B: He moved out of our house.
+A: I guess he really liked his new girlfriend.
+B: Yes, but she left him a year later.
+<end=dialog>
+<start=dialog>
+A: My grandma's apartment smells funny.
+B: So does mine.
+A: I think it's an old people's smell.
+B: Really? --yn
+A: Yes. I think when you get old, you begin to smell.
+B: Like fruit that is too ripe? --yn
+A: Yes, just like fruit that is too ripe.
+B: But the smell is different.
+A: Yes, old people don't smell like fruit.
+B: No, they smell like a thrift shop.
+A: Yes, a thrift shop has that same smell.
+B: Yes, an old smell.
+<end=dialog>
+<start=dialog>
+A: The price of stamps goes up and up.
+B: I think stamps used to cost a penny.
+A: That was a long time ago.
+B: It was before I was born.
+A: Now a stamp is 42 cents.
+B: But in May it will be 44 cents.
+A: Have you ever lost a letter in the mail? --yn
+B: No, I haven't.
+A: Neither have I.
+B: So, they do a good job for the money.
+A: Yes, they do.
+B: Maybe we shouldn't complain.
+<end=dialog>
+<start=dialog>
+A: A button came off my shirt.
+B: What are you going to do? --what
+A: First, I have to find the button.
+B: Where did you lose it? --where
+A: I have no idea.
+B: A button is hard to find. Did you look in your pant cuffs? --yn
+A: That's a good idea.
+B: I found a button in my pant cuffs one time.
+A: Let me look. No, it's not there.
+B: Many shirts come with an extra button.
+A: You're right. This one does have an extra button.
+B: Now all you have to do is sew it on.
+<end=dialog>
+<start=dialog>
+A: I have to go to the bathroom.
+B: You drink too much coffee.
+A: But I love coffee.
+B: Well, it's your life.
+A: You eat too much chocolate.
+B: I don't think so.
+A: Have you looked in the mirror? --yn
+B: Do you think I'm getting fat? --yn
+A: I didn't say that.
+B: What did you say? --what
+A: I said I have to go to the bathroom.
+B: That's what I thought you said.
+<end=dialog>
+<start=dialog>
+A: Did you do the laundry? --yn
+B: Yes, I did.
+A: What did you wash? --what
+B: I washed the sheets and towels.
+A: What about the pillowcases? --what
+B: Yes, I took them off the pillows and washed them.
+A: Did you dry everything in the dryer? --yn
+B: Yes, I dried everything in the dryer.
+A: Then what did you do? --what
+B: I folded all the towels.
+A: Did you put the sheets on the beds? --yn
+B: Yes, and I put the pillowcases on the pillows.
+<end=dialog>
+<start=dialog>
+A: Do you listen to the radio? --yn
+B: I listen day and night.
+A: What do you listen to? --what
+B: Mostly talk radio.
+A: What's that? --what
+B: People talk about current events.
+A: What do they say? --what
+B: They say they want change.
+A: What kind of change? --what
+B: They want tax cuts.
+A: Why do they want tax cuts? --why
+B: Because tax cuts will save them money.
+<end=dialog>
+<start=dialog>
+A: Mom, I'm hungry.
+B: Look in the fridge.
+A: I'm looking. There's nothing to eat.
+B: Are you sure? --yn
+A: It's almost empty.
+B: I went to the market yesterday.
+A: I don't see anything.
+B: I bought lots of oranges and apples.
+A: I don't want fruit. I want something tasty.
+B: Eat the fruit. It's good for you.
+A: Next time you go to the market, let me go with you.
+B: No, thank you. All you want to eat are hot dogs and candy bars.
+<end=dialog>
+<start=dialog>
+A: What is there to eat? --what
+B: I don't know. Look in the fridge.
+A: I think I'll make a sandwich.
+B: What kind? --what
+A: A ham sandwich.
+B: The bread is in the cabinet.
+A: Where's the mustard? --where
+B: It's in the fridge, I think.
+A: Oh, yes, here it is. Do you want a sandwich? --yn
+B: Yes, that sounds nice.
+A: How about some potato chips? --how_about
+B: Yes. And a pickle, if we have any.
+<end=dialog>
+<start=dialog>
+A: It's time for your bath, young lady.
+B: But, Mom, I'm not dirty.
+A: You need a bath every day.
+B: Why? --why
+A: Because you don't want to smell bad.
+B: I don't smell bad.
+A: That's what you think.
+B: If I smelled bad, I could smell me.
+A: I can smell you.
+B: I can smell you, too.
+A: That's my perfume.
+B: When can I wear perfume? --when
+<end=dialog>
+<start=dialog>
+A: Something's wrong with my computer.
+B: Exactly what? --what
+A: All I get is a black screen.
+B: What's the matter? --what
+A: I think I know, because this happened before.
+B: What happened before? --what
+A: My hard drive crashed.
+B: Oh, no. That's bad news.
+A: It sure is, but I'm going to call HP first, just to make sure.
+B: Will you lose all your files? --yn
+A: No, I always back up my files.
+B: You're smart.
+<end=dialog>
+<start=dialog>
+A: I called HP about my computer.
+B: What did they say? --what
+A: They said I need a new hard drive.
+B: That's too bad. How much is a new one? --how_much
+A: It's not too much, only about $85.
+B: Plus installation? --yn
+A: No, my hard drive is easy to remove and replace.
+B: Really? --yn
+A: Yes, it's just a couple of screws.
+B: That's nice.
+A: It's a lot better than paying someone $60.
+B: If my hard drive crashes, I'll just call you.
+<end=dialog>
+<start=dialog>
+A: What's your email address? --what
+B: It's bluedog123.
+A: Bluedog123. Are you sure that's all? --yn
+B: Yes.
+A: No. That's incomplete.
+B: What do you mean? --what
+A: What's your mailing address? --what
+B: 456 Cherry Drive, Pasadena, CA 91170.
+A: That's correct.
+B: So what's the problem? --what
+A: Bluedog123 is just the street. You have to give me the city, state, and ZIP code.
+B: Oh, I get it. My email address is bluedog123@yahoo.com.
+<end=dialog>
+<start=dialog>
+A: I'm going to take a nap.
+B: You should unplug the phone.
+A: That's a good idea.
+B: Do you want me to wake you in an hour? --yn
+A: No, thanks. Just let me sleep until I wake up.
+B: I'll start dinner at 6:00.
+A: Okay. I think I'll be awake by then.
+B: If not, your nose will wake you up.
+A: You mean I will smell the food cooking? --yn
+B: You might even dream about dinner.
+A: I don't think I'm going to dream about anything. I'm really tired.
+B: Have a nice nap.
+<end=dialog>
+<start=dialog>
+A: That was a nice funeral.
+B: Yes, dad, it was.
+A: The son gave a nice speech about his father.
+B: It was long, too.
+A: I think it was about 45 minutes long.
+B: But it went by fast. It was interesting.
+A: I liked it.
+B: I'll give you a speech like that, too.
+A: Do you think anyone will come to my funeral? --yn
+B: Of course.
+A: I think only the family will be there.
+B: You have lots of friends. They will be there, too!
+<end=dialog>
+<start=dialog>
+A: Yikes! What was that noise? --what
+B: I had to blow my nose.
+A: Did you have to blow right next to the phone? --yn
+B: Did you hear that? --yn
+A: Of course I heard that. I thought a plane had crashed into your house.
+B: It wasn't that loud.
+A: I will blow my nose sometime for you, and you'll see.
+B: Okay. I'll take your word for it.
+A: I thought you had an elephant in your house.
+B: You're funny.
+A: What did you say? --what I think I've gone deaf.
+B: I'm going into the bathroom to blow my nose. I'll be right back.
+<end=dialog>
+<start=dialog>
+A: I have lots of friends.
+B: Really? --yn How many do you have? --how_many
+A: I don't know, maybe one hundred.
+B: That is a lot of friends. Do you have a best friend? --yn
+A: Of course. I have lots of best friends.
+B: How many best friends do you have? --how_many
+A: I think about twenty-five.
+B: Hmm. I have only one best friend.
+A: I feel sorry for you.
+B: I have only a few friends.
+A: You must be lonely. I will share my friends with you.
+B: That's very nice of you.
+<end=dialog>
+<start=dialog>
+A: Don't you ever cheat on me.
+B: Why would I do that? --why
+A: Because men like to cheat.
+B: Some men do, but not me.
+A: I'm watching you.
+B: I'm an open book. Watch me all you want.
+A: If I catch you, you'll be sorry.
+B: You won't catch me, because I love you. I'm not a cheater.
+A: I will poke your eyes out.
+B: I don't want any other woman.
+A: I will chop your toes off, one by one.
+B: Honey, please. You're the only woman for me, forever. I swear it.
+<end=dialog>
+<start=dialog>
+A: I hate to go outside.
+B: Me too.
+A: Why do you hate to go outside? --why
+B: I meet too many jerks.
+A: I agree.
+B: This city is full of jerks.
+A: Rude people are everywhere.
+B: But what can you do? --what
+A: You can yell at them.
+B: And they will yell back at you.
+A: Yelling doesn't do any good.
+B: No. The best thing to do is just stay home.
+<end=dialog>
+<start=dialog>
+A: Will you look at this form? --yn
+B: Are you having problems with it? --yn
+A: I don't understand some things.
+B: Let me help you.
+A: What does "MI" mean? --what
+B: "MI" stands for Middle Initial.
+A: What does "MM/DD/YY" mean? --what
+B: That means Month/Day/Year. Use numbers.
+A: I don't understand.
+B: For example, if your birth date is January 12, 1987, write 01/12/87.
+A: Oh. That's simple enough.
+B: Always print clearly, and fill in the bubbles completely.
+<end=dialog>
+<start=dialog>
+A: Let's go to the animal shelter.
+B: What do you want to do? --what
+A: I want to get a puppy for my son.
+B: That will make him so happy.
+A: I'll get him one of those little dogs.
+B: One that won't grow up too big.
+A: And eat too much.
+B: Do you know which one he would like? --yn
+A: Oh, yes, I took him there yesterday. He showed me one that he really liked.
+B: I bet you had to drag him away.
+A: He wanted to take it home yesterday.
+B: I wonder what he'll name it.
+<end=dialog>
+<start=dialog>
+A: What's the weather like? --what
+B: I don't know. I just woke up.
+A: Why don't you look outside? --why
+B: Okay. It looks like rain.
+A: Why do you say that? --why
+B: The sky is gray.
+A: Is it raining right now? --yn
+B: No.
+A: How do you know? --how_to
+B: The street isn't wet.
+A: I have to go shopping today.
+B: You'd better take an umbrella.
+<end=dialog>
+<start=dialog>
+A: I can't believe how hot it is.
+B: It's not even noon yet.
+A: That means it will get hotter.
+B: I am dying from the heat.
+A: Turn on the air conditioner.
+B: It doesn't work.
+A: What happened? --what
+B: I don't know.
+A: Did you call the repairman? --yn
+B: Of course.
+A: When is he coming? --when
+B: He's busy. He said next week.
+<end=dialog>
+<start=dialog>
+A: I'll be glad when winter comes.
+B: Why is that? --why
+A: Because I love the snow.
+B: Yes, the snow is fun.
+A: Last year we made a big snowman.
+B: How big was it? --how_big
+A: It was seven feet tall.
+B: How long did it take? --how_long
+A: It took us all day.
+B: Did you give him a nose? --yn
+A: Of course. We gave him a big carrot for a nose.
+B: Let me help you make one this year.
+<end=dialog>
+<start=dialog>
+A: I'm going to the bank.
+B: What do you need to do? --what
+A: I need to withdraw some money.
+B: How are you going to do that? --how_about
+A: I'll just use the ATM.
+B: What's that? --what
+A: It's the Automatic Teller Machine.
+B: It gives you money? --yn
+A: I just insert my debit card into the machine.
+B: And it gives you money? --yn
+A: Well, it gives me money, but it's my own money.
+B: Oh. What good is that? --what I thought it gave you free money.
+<end=dialog>
+<start=dialog>
+A: Did you put the blue bin out on the street? --yn
+B: Oh, no. I forgot.
+A: Well, you'd better take it out front.
+B: What time does the recycle truck come by? --when
+A: It usually gets here at noon on Tuesday, which is tomorrow.
+B: I'll just take it out to the street tomorrow morning.
+A: Oh, no, you don't.
+B: What do you mean? --what
+A: Every morning you get up late and rush off to work late.
+B: Do you think I'll forget to do it? --yn
+A: You'll remember to do it, but you won't have time to do it.
+B: Okay, I'll take it out front right now.
+<end=dialog>
+<start=dialog>
+A: Are you ready? --yn
+B: Ready for what? --what
+A: Ready for the big switch.
+B: What are you talking about? --what
+A: The nation is switching to digital TV.
+B: Oh. Of course I'm ready.
+A: Did you buy the converter? --yn
+B: No, I don't need a converter because I bought a digital TV.
+A: How much was that? --how_much
+B: It was only about $120 for a 13-inch screen.
+A: Does it pick up any digital channels? --yn
+B: Oh, yes. I get six Korean channels but nothing in English!
+<end=dialog>
+<start=dialog>
+A: People are funny.
+B: They sure are.
+A: Did you hear about the pilot? --yn
+B: The one that stole a small plane? --yn
+A: Yes, he stole a plane in Canada and flew into the U.S.
+B: Did they catch him? --yn
+A: Yes. After two U.S. fighter jets followed him for an hour, he landed on a highway.
+B: Did he crash? --yn
+A: No, he just landed the plane and walked to a restaurant.
+B: Did the cops find out why he flew into the U.S.? --yn
+A: His life sucked. He was hoping a fighter jet would shoot him down.
+B: Poor guy.
+<end=dialog>
+<start=dialog>
+A: The police need our help finding a robber.
+B: How do you know? --how_to
+A: The TV news is reporting a bank robbery.
+B: Do they know what the robber looks like? --how_to
+A: Yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.
+B: What race is he? --what
+A: They didn't say.
+B: The TV news doesn't tell us the race anymore.
+A: Of course not. That would be racist.
+B: But how can we identify someone if we don't know their race? --how_to
+A: Don't ask me.
+B: Then they also shouldn't tell us if the robber is male or female, because that is sexist.
+<end=dialog>
+<start=dialog>
+A: Don't wipe your nose on your sleeve.
+B: But I don't have a tissue.
+A: Then go find a tissue in the bathroom.
+B: I didn't have time to get one from there.
+A: Your sleeves are not tissues.
+B: But Mom, all my friends use their sleeves.
+A: That doesn't make it right.
+B: I saw Dad wipe his nose on his sleeve yesterday.
+A: I will talk to your father about that.
+B: I bet Dad did it all the time when he was my age.
+A: Your daddy was a good little boy.
+B: How do you know? --how_to Were you his mommy, too? --yn
+<end=dialog>
+<start=dialog>
+A: I'm worried.
+B: Worried about what? --what
+A: I'm getting married.
+B: You should be happy, not worried.
+A: I am happy, but marriage is a lot of responsibility.
+B: Yes, you have to take care of your wife.
+A: And I have to take care of our children.
+B: Are you going to start a family? --yn
+A: Yes. We want to have a little boy and a little girl.
+B: That sounds wonderful.
+A: Except we can't afford it!
+B: No wonder you're worried.
+<end=dialog>
+<start=dialog>
+A: I don't get art.
+B: Or artists.
+A: They're in a different world.
+B: I saw a painting of a jar that was full of pencils.
+A: The artist said the jar was both full and empty.
+B: But it was full of pencils! How could he say it was empty? --how_to
+A: Artists see things differently.
+B: Did you ever see anything that Picasso painted? --yn
+A: Of course! He's world famous.
+B: Did he ever take art lessons? --yn
+A: I can't believe it. I drew paintings like that in third grade.
+B: Where are they? --where Maybe they are worth millions.
+<end=dialog>
+<start=dialog>
+A: What's the point? --what
+B: The point of what? --what
+A: Of living.
+B: Who knows? --who You live, and then you die.
+A: We must be here for some reason.
+B: Maybe we're here to have fun.
+A: Then why aren't I having fun? --why
+B: Because you're thinking too much.
+A: So I should stop thinking? --yn
+B: Stop thinking about what the point is.
+A: Okay. I'll start thinking about having some fun.
+B: Just be patient. Fun doesn't come along every five minutes.
+<end=dialog>
+<start=dialog>
+A: Beer is a powerful drug.
+B: So are cigarettes.
+A: Which would you prefer? --which
+B: What do you mean? --what
+A: When you die and go to heaven, they will offer you beer or cigarettes.
+B: I could pick only one or the other? --yn
+A: Yes. Nothing's perfect, not even in heaven.
+B: Boy, that's a tough one.
+A: What's so tough about it? --what Of course, I would pick cigarettes.
+B: But cigarettes taste much better when you have a cold beer.
+A: Well, you can't have everything.
+B: I don't think I want to go to your heaven.
+<end=dialog>
+<start=dialog>
+A: My pants have a hole in the front pocket.
+B: You shouldn't carry pens in your pocket.
+A: Yesterday a pen fell through my pants onto my shoe.
+B: Lucky for you it wasn't a sharp knife.
+A: Who carries a sharp knife in their pocket? --who
+B: Criminals, of course.
+A: Anyway, I have to fix the hole.
+B: You can sew it up or use an iron-on patch.
+A: Tell me about this patch.
+B: The patch has glue. The hot iron melts the glue so the patch sticks on.
+A: That sounds a lot easier than sewing.
+B: It is. But after about ten washings, the glue washes off.
+<end=dialog>
+<start=dialog>
+A: Do you know any good jokes? --yn
+B: I can't remember jokes.
+A: Neither can I.
+B: They go in one ear and out the other.
+A: Who makes up all these jokes? --who
+B: Who knows? --who But there must be a hundred new ones every day.
+A: Yes, just in English alone.
+B: I wonder if every language has jokes.
+A: Of course! People everywhere like good jokes.
+B: What do you think people joke about the most? --what
+A: I think most jokes are about women.
+B: Oh, really? --yn I think most jokes are about men!
+<end=dialog>
+<start=dialog>
+A: You're very lucky.
+B: Why do you say that? --why
+A: You speak two languages.
+B: Well, my English isn't perfect.
+A: No one speaks perfect English.
+B: Maybe I will be the first!
+A: I've been thinking about learning Spanish.
+B: Spanish is easy. I'll be happy to teach you.
+A: How long will it take me to learn? --how_long
+B: I think it will only take you a year or two.
+A: How soon can we begin? --how_long
+B: Ahora! That means right now.
+<end=dialog>
+<start=dialog>
+A: Do you know what today is? --yn
+B: Yes, it's April 22.
+A: It's more than just a date.
+B: Is it your birthday or anniversary? --yn
+A: No, it's Earth Day.
+B: What's that? --what
+A: It's a yearly reminder to take care of our planet.
+B: Oh, you mean like reuse things and recycle stuff? --yn
+A: Yes. We need to think green, save water, and stop using plastic bags.
+B: How about if I take shorter showers? --how_about
+A: That's a good idea, because showers waste a lot of water.
+B: From now on I'll spend only 20 minutes in the shower.
+<end=dialog>
+<start=dialog>
+A: Poetry sucks.
+B: I don't know anyone who likes it.
+A: Some of it is okay, I guess.
+B: Yes, the poems that rhyme and are easy to remember.
+A: Like "One, two, buckle my shoe."
+B: But people still write poems.
+A: No one makes any money at it.
+B: Shakespeare was a poet.
+A: Did he get rich from his poetry? --yn
+B: Probably not.
+A: Poems are a little bit like songs.
+B: Yes, but songs have music. Without music, songs would suck, too.
+<end=dialog>
+<start=dialog>
+A: How smart are you? --how_about
+B: I don't know. I think I'm average.
+A: Did you ever take an IQ test? --yn
+B: No, I never did. All I know is that I got A's and B's in school.
+A: I wish I was really smart.
+B: Don't be ridiculous.
+A: What do you mean? --what
+B: If you're going to make a wish, wish that you were really rich or famous.
+A: Don't you ever wonder what it's like to be super-smart? --yn
+B: It must be very lonely.
+A: Why's that? --why
+B: Because if you're super-smart, no one understands what you're saying.
+<end=dialog>
+<start=dialog>
+A: I missed the TV news last night. What was on? --what
+B: Nothing that would pass as news.
+A: What's the weather going to be like this weekend? --what
+B: I don't know. Whenever the weather comes on, I switch channels.
+A: What was the lead story on the news? --what
+B: Some actress was in court for driving without a license.
+A: What was the second story? --what
+B: Some actor married a woman young enough to be his daughter.
+A: What was the third story? --what
+B: A bull chased a man in a supermarket.
+A: Wasn't there anything about Octo-Mom? --yn
+B: Of course. She's going to hire a nanny for her eight infants.
+<end=dialog>
+<start=dialog>
+A: What are you going to do about your death? --what
+B: Well, mostly I'll try to avoid it.
+A: I mean, are you going to get buried or cremated? --yn
+B: My wife and I will be cremated.
+A: Are you going to be buried next to each other? --yn
+B: Oh, no. Our ashes will be shaken into the ocean.
+A: You're not going to be buried? --yn
+B: A coffin costs too much and takes up too much space.
+A: Yes, but it will be in a cemetery where your children can visit you.
+B: Children seldom visit their parents in a cemetery.
+A: That's true. A cemetery is for dead people, not living people.
+B: We figure our kids can visit us whenever they go to the beach.
+<end=dialog>
+<start=dialog>
+A: Did you wipe your feet? --yn
+B: Yes, of course I wiped my feet.
+A: Then why is there mud on the carpet? --why
+B: I don't know. It's not my mud.
+A: Well, someone brought it into the house.
+B: Look at the bottom of my shoes�they're clean.
+A: Of course they're clean. You left all the mud on the carpet.
+B: Okay, I'll get the vacuum cleaner.
+A: Don't vacuum it now.
+B: Don't you want me to clean up the mud? --yn
+A: Wait till it dries. It will be easier to vacuum.
+B: Next time I will be more careful.
+<end=dialog>
+<start=dialog>
+A: What are you getting for your mom? --what
+B: What are you talking about? --what
+A: Sunday is Mother's Day.
+B: This Sunday? --yn
+A: Of course. It's all over the news.
+B: I thought it was next Sunday.
+A: Well, you'd better get her something.
+B: I'll get her a nice card.
+A: Is that it? --yn
+B: Yes. That's all I ever give her.
+A: She raised you, and all you ever give her is a card? --yn
+B: It's okay. She knows that I love her.
+<end=dialog>
+<start=dialog>
+A: I don't like our flag.
+B: What's the matter with it? --what
+A: It's too much like other flags.
+B: Yes, a lot of flags have stripes.
+A: A flag should be pretty.
+B: What should our flag look like? --what
+A: It should have a pretty woman on it.
+B: That's ridiculous!
+A: You don't like pretty women? --yn
+B: Of course I do. But not on our flag!
+A: Every nation should have a pretty woman on their flag.
+B: You can't go to war carrying a flag with a woman on it!
+<end=dialog>
+<start=dialog>
+A: I had a busy morning.
+B: What did you do? --what
+A: I watered all the plants.
+B: You have a lot of plants.
+A: Then I did my laundry.
+B: That takes some time.
+A: I took the dog for a walk.
+B: I'll bet he enjoyed his walk.
+A: I vacuumed the entire house.
+B: That's a lot of work.
+A: And then I made lunch.
+B: I'll bet you were hungry!
+<end=dialog>
+<start=dialog>
+A: I don't have long distance service with my home phone.
+B: So how do you make long distance calls? --how_to
+A: I use a calling card.
+B: Where do you get that? --where
+A: I buy it at the dollar store.
+B: How much is it? --how_much
+A: It's one dollar for 100 minutes.
+B: That's only a penny a minute!
+A: It's a great price. But you have to dial a lot of numbers.
+B: How many? --how_many
+A: First you dial seven numbers, then ten numbers, then ten more numbers.
+B: Yikes. I think I'll keep my long distance service.
+<end=dialog>
+<topic=school_file>
+<start=dialog>
+A: Do you go to college? --yn
+B: Yes, I do.
+A: What college do you go to? --what
+B: I go to Pasadena City College.
+A: Do you like it? --yn
+B: Oh, yes, I really like it.
+A: Why do you like it? --why
+B: Because it has great teachers.
+A: What else? --what
+B: I like all my classmates, too.
+A: Anything else? --yn
+B: Yes. It's not expensive!
+<end=dialog>
+<start=dialog>
+A: I lost my new pen.
+B: Where did you lose it? --where
+A: I don't know.
+B: When did you lose it? --when
+A: I think I lost it today. I used it yesterday.
+B: Did you check all your pockets? --yn
+A: I checked all my pockets.
+B: Did you look in your desk? --yn
+A: Yes. It isn't there, either.
+B: It's probably around somewhere.
+A: Oh, well, it only cost me a dollar.
+B: Only a dollar? --yn Don't even look for it.
+<end=dialog>
+<start=dialog>
+A: Gravity is very important.
+B: What is gravity? --what
+A: It's the force that pulls everything down.
+B: I don't understand.
+A: If you pour water into a glass, the water goes down into the glass.
+B: Of course it does.
+A: Without gravity, the water would go up.
+B: You're joking.
+A: Without gravity, you would go up.
+B: What do you mean? --what
+A: You would float into the sky like a balloon.
+B: That would be fun!
+<end=dialog>
+<start=dialog>
+A: I can't read my book.
+B: Turn on the light.
+A: The light is on.
+B: Open the book.
+A: The book is open.
+B: See an eye doctor.
+A: That's what I need to do.
+B: He'll give you a prescription for glasses.
+A: I'll make an appointment tomorrow.
+B: I'll get the yellow pages for an eye doctor.
+A: Read the phone number to me.
+B: I'll read it very loud, in case your hearing is getting bad, too.
+<end=dialog>
+<start=dialog>
+A: What do you need for school? --what
+B: I need pencils.
+A: Anything else? --yn
+B: I need a notebook.
+A: Do you need a pen? --yn
+B: No. I already have a pen.
+A: Do you need a calculator? --yn
+B: No. The teacher doesn't permit calculators.
+A: How about a dictionary? --how_about
+B: No, we have a big dictionary in the classroom.
+A: Well, I guess that's it.
+B: Yes, that's all I need for now.
+<end=dialog>
+<start=dialog>
+A: I like this magazine.
+B: So do I.
+A: I read it once, and I subscribed.
+B: It gives you all the news.
+A: All the news in only 50 pages.
+B: I like the political cartoons.
+A: I like the beautiful photos of the houses for sale.
+B: I always read the film reviews.
+A: I never miss the food and drink section.
+B: I gave a subscription to my parents.
+A: Me too. They canceled their other news magazines.
+B: So did mine!
+<end=dialog>
+<start=dialog>
+A: My pen is out of ink.
+B: Shake it a couple of times.
+A: I shook it. There is no more ink.
+B: You can borrow mine.
+A: Thank you. I'll buy a new one tomorrow.
+B: What were you doing? --what
+A: I was writing a letter.
+B: Who were you writing to? --who
+A: It's to my mom.
+B: Tell her I said hello.
+A: Okay. I'll return your pen when I'm done.
+B: Take your time.
+<end=dialog>
+<start=dialog>
+A: Have you done your homework? --yn
+B: Not yet.
+A: Then why are you watching TV? --why
+B: This is my favorite show.
+A: Go do your homework.
+B: But, mom!
+A: You can watch TV after you do your homework.
+B: But the show will be over.
+A: There will be another show next week.
+B: Please? --yn
+A: You know the rules.
+B: I hate the rules! I can't wait till I grow up.
+<end=dialog>
+<start=dialog>
+A: I can't wait until I graduate.
+B: Me too.
+A: No more homework.
+B: I hate homework.
+A: Are you going to college? --yn
+B: I can't afford it.
+A: Me neither.
+B: So what are you going to do? --what
+A: I'm joining the army.
+B: You're kidding. You might get killed.
+A: I don't think so. After I finish, I'll have enough money to go to college.
+B: That's not a bad idea.
+<end=dialog>
+<start=dialog>
+A: What is your major? --what
+B: English.
+A: What are you going to do with an English major? --what
+B: I'm going to be a teacher.
+A: High school or middle school? --selection
+B: High school.
+A: I teach high school English.
+B: I didn't know that.
+A: I started teaching five years ago.
+B: How do you like it? --how_to
+A: Do you see all this gray hair? --yn It was totally black five years ago.
+B: Maybe I'll teach middle school.
+<end=dialog>
+<start=dialog>
+A: Parking at school is impossible.
+B: I'll say.
+A: I drove around for half an hour.
+B: Did you find a spot? --yn
+A: I found a spot, but someone cut in and took it from me.
+B: Did you yell at them? --yn
+A: Yes, I did.
+B: And? --what
+A: And he yelled back at me.
+B: How rude.
+A: But I got lucky a few minutes later.
+B: You have to be lucky to find a parking space.
+<end=dialog>
+<start=dialog>
+A: This is a huge library.
+B: Yes, it has lots of rooms and lots of space.
+A: And lots of books.
+B: And lots of thieves.
+A: What do you mean? --what
+B: I mean, keep your belongings close to you.
+A: The only thing in my backpack is used books.
+B: But thieves don't know that.
+A: They might think that I've got an iPod or laptop in there.
+B: Now you're thinking.
+A: You'd think a library would be safe from thieves.
+B: Not even a church is safe from thieves.
+<end=dialog>
+<start=dialog>
+A: How good is your math? --how_about
+B: I can add two and two.
+A: So you're not very good at math? --yn
+B: I'm terrible at math.
+A: Well, I need some help.
+B: With what? --what
+A: I'm taking a math course in school.
+B: Well, you should ask your teacher or your classmates for help.
+A: I can't do that.
+B: Why not? --why
+A: They might think I'm stupid.
+B: They're not going to think that! They'll be glad to help you.
+<end=dialog>
+<start=dialog>
+A: Do you believe in God? --yn
+B: Of course.
+A: Do you pray to God? --yn
+B: Occasionally.
+A: When's that? --when
+B: When I need something.
+A: Like what? --what
+B: Well, if I have a big test at school.
+A: Does God answer your prayers? --yn
+B: Yes, I've passed all my tests.
+A: Do you ever pray for money? --yn
+B: Not yet. I won't need to do that until I graduate from high school.
+<end=dialog>
+<start=dialog>
+A: The cops finally found the husband.
+B: What husband? --what
+A: The husband of the driver who ran over two college students at 3 a.m.
+B: Oh, yeah. The girl died instantly, and the boy is still in the hospital.
+A: The husband said he tried to help the boy.
+B: Yes, he pushed him off the hood of the car.
+A: No, he said he gently placed the boy on the street.
+B: So what? --what They still drove off.
+A: The husband said a fire department was nearby.
+B: So what? --what Did he dial 911? --yn
+A: He said he was thinking about it, but he didn't get around to it.
+B: He didn't get around to turning himself in, either.
+<end=dialog>
+<topic=transportation>
+<start=dialog>
+A: I don't like riding the bus.
+B: Why not? --why
+A: The seats and windows are dirty.
+B: Don't they clean the bus every night? --yn
+A: I think they do.
+B: You should bring some wipes with you.
+A: That's a good idea.
+B: Then you can wipe your seat and window.
+A: People will think I'm strange.
+B: Who cares? --who Everyone is strange.
+A: That's for sure.
+B: Don't worry about what people think.
+<end=dialog>
+<start=dialog>
+A: I don't like riding the bus.
+B: Why not? --why
+A: Number one, it's too slow.
+B: You're right. A car is faster.
+A: Number two, it's usually late.
+B: You're right. The buses are never on time.
+A: Number three, it doesn't run 24 hours.
+B: You're right. Buses don't run late at night.
+A: Number four, it's too crowded.
+B: You're right. You have to stand in the aisle.
+A: Number five, it's unsafe.
+B: You're right. Bad guys might rob you.
+<end=dialog>
+<start=dialog>
+A: We had a problem at school.
+B: What was the problem? --what
+A: Someone cut the tires.
+B: What tires? --what
+A: The tires on the cars.
+B: Where were the cars? --where
+A: They were in the student parking lot.
+B: How many tires were cut? --how_many
+A: One or two tires were cut on each car.
+B: How many cars? --how_many
+A: Eleven cars.
+B: That's terrible. I hope they catch the person.
+<end=dialog>
+<start=dialog>
+A: Life isn't fair.
+B: It sure isn't.
+A: I got a ticket yesterday.
+B: What for? --what
+A: I was crossing the street.
+B: Were you in a crosswalk? --yn
+A: Yes, but the red hand was blinking.
+B: So? --what That's a ticket? --yn
+A: Yes, it's a $140 ticket.
+B: That's not right!
+A: When I started to cross the street, the white walk sign was blinking.
+B: You need to walk faster.
+<end=dialog>
+<start=dialog>
+A: You're driving too fast.
+B: Why do you say that? --why
+A: The speed limit is 65.
+B: I know that.
+A: But you're doing 75.
+B: So is everyone else.
+A: But a cop might stop you.
+B: No, he won't. Some cars are doing 85.
+A: So the cop will stop those cars? --yn
+B: Of course. He stops the fastest cars.
+A: My friend got a ticket for doing 75.
+B: Your friend was unlucky.
+<end=dialog>
+<start=dialog>
+A: Remember to put air in your tires.
+B: How often do I have to do that? --how_often
+A: Once every two months.
+B: That's a lot.
+A: What do you mean? --what
+B: That's six times a year!
+A: Yes, and it takes about five minutes each time.
+B: I'll try.
+A: Check your tires or you'll get a flat.
+B: Oh. That's not good.
+A: No, it isn't. A flat costs you time and money.
+B: And I don't have either.
+<end=dialog>
+<start=dialog>
+A: You're driving too fast.
+B: I'm in a hurry.
+A: Don't ever be in a hurry.
+B: It's not my fault. You didn't wake me up.
+A: That's not my fault. You didn't tell me to wake you up.
+B: Well, I meant to.
+A: Don't ever be in a hurry when you're driving.
+B: Why not? --why
+A: Because you'll have an accident. Most accidents are because people are in a hurry.
+B: How do you know that? --how_to
+A: I read a lot.
+B: I thought drunks caused most accidents.
+<end=dialog>
+<start=dialog>
+A: Let's go for a ride.
+B: Where are we going? --where
+A: Into the mountains.
+B: That sounds nice.
+A: I want to show you my new car.
+B: You bought a new car? --yn
+A: Yes. I bought a Cadillac.
+B: A luxury car.
+A: Luxury plus speed.
+B: What are we waiting for? --what
+A: Let me get the keys.
+B: Let me get my camera.
+<end=dialog>
+<start=dialog>
+A: I have to go to the bathroom.
+B: Why didn't you go before we left? --why
+A: I did, but I have to go again.
+B: Well, hold on a little longer.
+A: I think I'm going to explode.
+B: Just hold on.
+A: Oh! Don't hit any more bumps!
+B: We'll be at McDonald's in just a few minutes.
+A: I hope they are fast minutes.
+B: Think about something else. Think about a hamburger.
+A: I'm thinking, but I still have to go.
+B: It's the next exit. Hold on!
+<end=dialog>
+<start=dialog>
+A: Where's the car? --where
+B: What do you mean? --what
+A: The car isn't here.
+B: Where did you park it? --where
+A: I parked it right here.
+B: Are you sure? --yn
+A: Yes. I remember this big tree.
+B: Maybe it's the wrong tree.
+A: No, this is the tree.
+B: Did someone steal it? --yn
+A: I sure hope not.
+B: Maybe they towed it away.
+<end=dialog>
+<start=dialog>
+A: Look at this traffic.
+B: I'd rather not.
+A: It gets worse every year.
+B: Why are you complaining? --why We're going almost 20 miles an hour.
+A: The speed limit is 65!
+B: Well, that's between 2:00 and 4:00 a.m.
+A: Where are all these people going? --where
+B: They're all asking the same question.
+A: When are they going to fix this problem? --when
+B: They said they need more money.
+A: They always need more money.
+B: It'll get worse before it gets better.
+<end=dialog>
+<start=dialog>
+A: Did you see that car? --yn
+B: Yes, he went through the red light.
+A: Can we call the police? --yn
+B: No, the police don't care.
+A: Why not? --why
+B: They have to see it happen.
+A: They don't believe us? --yn
+B: No. They can only give a ticket if they see it happen.
+A: So, what do we do? --what
+B: We don't do anything.
+A: Maybe we should honk the horn next time.
+B: The driver will just honk back at us.
+<end=dialog>
+<start=dialog>
+A: My car is dirty.
+B: Why don't you wash it? --why
+A: That's what I'm going to do.
+B: Are you going to wash it yourself? --yn
+A: Of course. It's not a hard job.
+B: I'll help you.
+A: Okay, I'll get a bucket.
+B: I'll rinse the car first.
+A: Then we can scrub it with a wet sponge and soap.
+B: After that, we can dry it with a towel.
+A: Then it will look like new
+B: And you save $10.
+<end=dialog>
+<start=dialog>
+A: It sure is windy today.
+B: Paper is flying everywhere.
+A: This wind is dangerous for drivers.
+B: Especially for drivers of big trucks.
+A: The wind blows those trucks over.
+B: It blows trees over, too.
+A: A tree fell onto my dad's car.
+B: Was there much damage? --yn
+A: My dad had to buy a new car.
+B: Wow! That's terrible.
+A: Never park your car under a tree.
+B: The wind will get you, or the birds will get you.
+<end=dialog>
+<start=dialog>
+A: When are we going to stop? --when
+B: We'll stop at the next McDonald's.
+A: How far away is that? --how_far
+B: I think we'll be there in half an hour.
+A: I hope so. I have to go to the bathroom.
+B: Well, I can always pull over.
+A: No, thank you, I'll just wait.
+B: We can kill two birds with one stone.
+A: What do you mean? --what
+B: While you're using the bathroom, I'll order some food.
+A: Don't order for me. I'm not hungry.
+B: I'm very hungry. I'll order for you, and then I'll eat yours.
+<end=dialog>
+<start=dialog>
+A: This is such a long light.
+B: Look how many cars are waiting in line.
+A: They need a left-turn arrow.
+B: Only two cars can make a left turn every three or four minutes.
+A: We'll be here forever.
+B: Get out of this lane.
+A: But we need to turn left.
+B: Forget it. Go straight.
+A: Then what? --what
+B: Then we'll just make a U-turn.
+A: And then we can turn right at the light.
+B: Good idea. It will be so much quicker.
+<end=dialog>
+<start=dialog>
+A: I need a cheap car.
+B: How much money do you have? --how_much
+A: $1,000.
+B: Well, that should get you something.
+A: But I need something that's reliable.
+B: You need a car with low mileage.
+A: A car that was owned by a little old lady.
+B: Where have you looked? --where
+A: I haven't looked anywhere yet.
+B: Why not? --why
+A: Because I'll never find one for such a low price.
+B: You're right about that. Keep saving your money.
+<end=dialog>
+<start=dialog>
+A: Good afternoon, officer.
+B: Your driver's license and registration, please.
+A: Here you go.
+B: Do you know why I pulled you over? --yn
+A: I have no idea. All of a sudden I heard your siren.
+B: You rolled through that stop sign back there.
+A: But I stopped!
+B: No, you didn't. You slowed down, but you didn't come to a full stop.
+A: Well, nobody else does, so why should I? --why
+B: That's not the attitude of a good driver.
+A: But I am a good driver. I've never had a ticket in my life.
+B: Well, you've got one now. Here. Have a nice day.
+<end=dialog>
+<start=dialog>
+A: $140. I can't believe it.
+B: What are you talking about? --what
+A: I got a ticket downtown for $140.
+B: Were you speeding? --yn
+A: No, I was crossing the street.
+B: Were you jaywalking? --yn
+A: No, I was in the crosswalk.
+B: So why did you get a ticket? --why
+A: The officer said the red hand was blinking.
+B: Was it blinking when you entered the crosswalk? --yn
+A: No, the white WALK sign was blinking.
+B: You should fight that ticket. I'll be your witness.
+<end=dialog>
+<start=dialog>
+A: They were in a crosswalk near school at 3 a.m.
+B: Who? --who
+A: Two students from USC.
+B: What happened? --what
+A: A speeding car ran a red light, killing the girl.
+B: What happened to the other student? --what
+A: He landed on the hood of the car.
+B: Did he get off the hood? --yn
+A: No, the car stopped and the passenger pushed the injured student off the hood.
+B: I'll bet the car continued on its way.
+A: Of course it did. Why stop after you've run over two people? --yn
+B: I hope they find them and put them in jail for life.
+<end=dialog>
+<start=dialog>
+A: What happened to your car? --what
+B: I got a dent in the parking lot.
+A: How did you get it? --how_to
+B: I don't know. Maybe it was from a shopping cart.
+A: Those shopping carts are dangerous.
+B: Especially the metal ones.
+A: I don't park at a store that uses metal shopping carts.
+B: That's a good idea, but there was a good sale at this store.
+A: Did you save any money on the sale? --yn
+B: Yes, I did. I saved about $50.
+A: That's great.
+B: Yes, except this dent will cost about $150.
+<end=dialog>
+<topic=entertainment>
+<start=dialog>
+A: Did you see "Titanic"? --yn
+B: Yes. It is a great movie.
+A: I saw it twelve times.
+B: I saw it eight times.
+A: I have the DVD.
+B: So do I.
+A: Let's go to your home.
+B: We can watch my DVD.
+A: And then we can go to my home.
+B: And watch your DVD.
+A: I always cry at the end.
+B: Me too. It's so sad.
+<end=dialog>
+<start=dialog>
+A: Let's play cards.
+B: I don't know any card games.
+A: I'll teach you one.
+B: Okay. What will you teach me? --what
+A: It's called poker.
+B: Is it easy to learn? --yn
+A: Yes, it will only take about 30 minutes.
+B: Okay. Teach me how to play.
+A: We each get five cards.
+B: Oh, look. I have four tens.
+A: That's great, but you're not supposed to tell me.
+B: Oh. Sorry. Okay, I don't have four tens.
+<end=dialog>
+<start=dialog>
+A: I'm a good card player.
+B: Why is that? --why
+A: Because I watch the other players.
+B: What do you mean? --what
+A: People will tell you if they have a good hand.
+B: How do they do that? --how_to
+A: For example, a friend of mine licks his lips.
+B: When he licks his lips, you know he has a good hand? --when
+A: I know he has a good hand, so I don't bet.
+B: He never wins your money? --yn
+A: Nope, and it drives him crazy.
+B: He knows you can't read his mind. Maybe he thinks you're cheating.
+<end=dialog>
+<start=dialog>
+A: Turn the radio down, please.
+B: But I'm listening to it.
+A: Well, listen to it more quietly.
+B: I can't wait till I grow up.
+A: What will you do? --what
+B: I will play the radio as loud as I want.
+A: That's okay with me.
+B: I will have a radio in every room of my house.
+A: Remind me to never visit you.
+B: All the radios will be on extra loud.
+A: Your neighbors will hate you.
+B: If they don't like it, they can move.
+<end=dialog>
+<start=dialog>
+A: I hope I win the lotto.
+B: Your chances are very small.
+A: But you can't win if you don't play.
+B: Ha! You can't win if you do play.
+A: Someone has to win.
+B: That's what everyone says.
+A: It might as well be me.
+B: That's what everyone says.
+A: You're trying to tell me something.
+B: That didn't take long.
+A: You think I should quit playing.
+B: Save your money for school.
+<end=dialog>
+<start=dialog>
+A: What's on TV? --what
+B: Nothing much.
+A: What about the baseball game? --what
+B: It got rained out.
+A: Rained out? --yn
+B: Yes, rained out.
+A: How could that be? --how_to
+B: Well, you can't play baseball in a rainstorm.
+A: I thought they were playing under a dome.
+B: The dome doesn't close.
+A: Why doesn't it close? --why
+B: Who knows? --who They said they'll fix it before next season.
+<end=dialog>
+<start=dialog>
+A: Can I try your coffee? --yn
+B: Sure. Here you go.
+A: Hmm, that's not bad.
+B: There's nothing in it.
+A: What do you mean? --what
+B: I mean, it's just coffee.
+A: I figured that.
+B: It's not too bitter for you? --yn
+A: It's a little bitter, but it's okay.
+B: There's no sugar or cream in it.
+A: No, it's a taste you have to get used to.
+B: Sort of like beer.
+<end=dialog>
+<start=dialog>
+A: Let's take a walk.
+B: What's the weather like? --what
+A: Let me step outside and see.
+B: It's a little chilly, right? --yn
+A: Yes, it is.
+B: I'll put on my cap.
+A: Wear a jacket, too.
+B: I wonder if I should bring my gloves.
+A: Maybe you should, just in case it gets colder.
+B: I'll put a glove in each pocket.
+A: We'll get warmer as we walk.
+B: Yes, but it gets colder as the sun goes down.
+<end=dialog>
+<start=dialog>
+A: Look at the car chase on TV!
+B: That driver is crazy.
+A: I can't believe he hasn't crashed.
+B: How fast is he going? --how_about
+A: They say he's going 80 miles per hour.
+B: He's going to kill someone.
+A: Look! He just hit that car.
+B: Oh, my goodness. No one is safe on the streets.
+A: Now he's slowing down.
+B: Maybe he ran out of gas.
+A: Look! He just got out of the car and started running.
+B: I hope the police catch him.
+<end=dialog>
+<start=dialog>
+A: TV news is so stupid.
+B: They shouldn't even call it news.
+A: Last night they told us about a cat in a sofa.
+B: Yesterday they told us about a dog in a pipe.
+A: Last week they told us about a bear in a back yard.
+B: Last month they told us about a mouse in a restaurant.
+A: The weatherman tells us the temperature in every town.
+B: The sports guy shows us players fighting.
+A: They always tell us "what's next."
+B: They always make "what's next" sound exciting, but it never is.
+A: It's more like news for kids.
+B: They should have kid reporters.
+<end=dialog>
+<start=dialog>
+A: I love my computer.
+B: Computers are so cool.
+A: I love to go online.
+B: The Internet is amazing.
+A: You can travel all over the world.
+B: I know. I went to China yesterday.
+A: What did you do? --what
+B: I stood on the Great Wall and looked all around.
+A: What was it like? --what
+B: It was like the real thing.
+A: It was like being there? --yn
+B: Yes, I felt like I was actually there.
+<end=dialog>
+<start=dialog>
+A: The Beatles are the best.
+B: They are the best musical group ever.
+A: I love all their songs.
+B: I don't know which one I like the best.
+A: I like the ones I can sing along with.
+B: So do I, like "She Loves You."
+A: "She loves you, Yeah, yeah, yeah!..."
+B: "…And you know you should be glad!"
+A: What a great song.
+B: How about "Let It Be? --how_about
+A: Oh, yes! "Let it be, let it be…"
+B: "…There will be an answer, let it be!"
+<end=dialog>
+<start=dialog>
+A: Let's go to a movie.
+B: I'd rather not.
+A: Why not? --why
+B: You know I don't like crowds.
+A: Let's go to an early movie.
+B: Okay, that won't be very crowded.
+A: What would you like to see? --what
+B: Oh, I don't care. You're the one who wants to go out.
+A: Well, I want to see "The Pursuit of Happiness."
+B: What have you heard about it? --what
+A: It's based on a true story about a divorced man and his young son.
+B: Well, I hope it has a happy ending.
+<end=dialog>
+<start=dialog>
+A: What's your favorite thing to do? --what
+B: I like to watch people.
+A: That's your favorite thing to do? --yn
+B: Well, it's one of them.
+A: Where do you go to watch people? --where
+B: My girlfriend and I sit outside Starbucks.
+A: That sounds like a good spot.
+B: We watch people walk by with their dogs.
+A: I guess you see lots of different dogs.
+B: We don't even know what kind most of them are.
+A: There are lots of different kinds, but they all have one thing in common.
+B: Yes, they love to sniff each other when they meet.
+<end=dialog>
+<start=dialog>
+A: They call him Father Dollar Bill.
+B: Yes, he was on the TV news today.
+A: Every Easter Sunday he gives away money.
+B: Is it his money? --yn
+A: No. Movie stars give him money to give to homeless people.
+B: How much money does he give away? --how_much
+A: This year he gave away $15,000.
+B: That's a lot of money.
+A: He gave $100 to people in wheelchairs.
+B: What about the other homeless people? --what
+A: They got $1 each.
+B: People stood in line just to get one dollar? --what
+<end=dialog>
+<start=dialog>
+A: Old movies are the best.
+B: Even though they're in black and white.
+A: A good story is more important than color.
+B: Actors didn't curse back then.
+A: And there was no violence.
+B: People today don't like that.
+A: No, today people like lots of action.
+B: I like a good story.
+A: I like to see actors who are like real people.
+B: Like real people with real problems.
+A: They still make movies like that.
+B: Yes, but they never make much money.
+<end=dialog>
+<start=dialog>
+A: Do you get PBS on TV? --yn
+B: Yes, everybody gets the Public Broadcasting System.
+A: It puts me to sleep.
+B: Tell me about it.
+A: A gardening show follows a knitting show.
+B: A cooking show follows a sewing show.
+A: A travel show follows another travel show.
+B: I'll say! I've gone around the world a dozen times already!
+A: Now they're adding old TV shows to the old movies.
+B: I sure would like to see something interesting for a change.
+A: If more people donate money, PBS could offer new shows.
+B: Who wants to donate? --who Public TV should be free.
+<end=dialog>
+<start=dialog>
+A: I love to watch "Judge Judy."
+B: Is that a TV show? --yn
+A: Yes. It's on every afternoon.
+B: What's so good about it? --what
+A: They have interesting lawsuits.
+B: Such as? --what
+A: Yesterday, a woman complained about a cell phone she bought on eBay.
+B: Was something wrong with the phone? --yn
+A: It works only in Canada.
+B: Did the seller know that? --yn
+A: Yes, and he didn't tell the buyer.
+B: I hope Judge Judy made the seller take the phone back.
+<end=dialog>
+<start=dialog>
+A: That woman is a very good singer.
+B: Yes, but she looks like a man.
+A: What difference does it make? --what
+B: Female singers are supposed to be pretty.
+A: Singers are supposed to sound good.
+B: They should look good, too.
+A: There are lots of ugly men singers.
+B: Men singers don't have to look good.
+A: Then neither do women singers.
+B: Well, I would never buy her CD.
+A: But you would buy her CD if she was pretty? --yn
+B: Yes. I would buy all of her CDs.
+<end=dialog>
+<start=dialog>
+A: All the TV stations are going to go digital.
+B: Yes, that will occur next month.
+A: Most of them are already broadcasting in digital.
+B: The digital signal is very clear.
+A: Oh, no, it isn't!
+B: What do you mean? --what
+A: I can't get a single channel.
+B: Do you have a digital TV? --yn
+A: Of course. But I don't have cable.
+B: You don't need to have cable, but you do need a good antenna.
+A: But I have rabbit ears.
+B: Rabbit ears aren't strong enough. Buy a digital antenna.
+<end=dialog>
+<topic=dating>
+<start=dialog>
+A: I've got a date for you.
+B: Oh, really? --yn
+A: Are you interested? --yn
+B: Maybe. What is she like? --what
+A: She's got a great personality.
+B: Uh-oh. That means that she's fat and ugly.
+A: She's cute.
+B: Okay, so she's not ugly; she's just fat.
+A: She weighs 98 pounds.
+B: Okay, she's not fat. So what's the problem with her? --who
+A: Who said there is a problem with her? --who
+B: The problem is she has no problems—she's too good for me!
+<end=dialog>
+<start=dialog>
+A: I think you're very pretty.
+B: Thank you.
+A: Would you have dinner with me? --yn
+B: I would like to.
+A: Can I pick you up Friday night? --yn
+B: What time? --when
+A: Eight o'clock.
+B: That sounds great.
+A: We'll go to a French restaurant.
+B: I've never been to a French restaurant.
+A: I think you'll love the food.
+B: I'm not going to eat any snails!
+<end=dialog>
+<start=dialog>
+A: You have pretty eyes.
+B: Thank you. So do you.
+A: I wish my eyes were blue.
+B: What's the matter with green eyes? --what
+A: Nothing, except my favorite color is blue.
+B: Maybe in your next life you'll have blue eyes.
+A: But what if I'm a fish in my next life? --what
+B: I think some fish have blue eyes.
+A: I hope I don't come back as a fish.
+B: I hope I come back as a cat.
+A: Cats have beautiful eyes.
+B: I would love to have blue cat-eyes.
+<end=dialog>
+<start=dialog>
+A: I love you.
+B: I love you, too.
+A: I loved you the first day I saw you.
+B: It was love at first sight? --yn
+A: Yes, it was love at first sight.
+B: I didn't love you at first.
+A: I know. I had to chase you for a while.
+B: Yes, you chased me and then you caught me.
+A: Now you're mine forever.
+B: And you're mine forever.
+A: We'll grow old together.
+B: And be happy together.
+<end=dialog>
+<start=dialog>
+A: I'm in love with that girl.
+B: Have you told her? --yn
+A: Of course not.
+B: Why not? --why
+A: She would laugh at me.
+B: How do you know? --how_to
+A: Because they always do.
+B: Maybe she's different.
+A: They're all the same.
+B: Just ask her out to dinner.
+A: And then what? --what
+B: And then she'll know that you like her.
+<end=dialog>
+<start=dialog>
+A: Give me a hug.
+B: I'm not in the mood.
+A: What's the matter? --what
+B: I saw you looking at that woman.
+A: What woman? --what
+B: You know, that woman with the big boobs.
+A: I was not looking at her.
+B: You were, too.
+A: I'm not interested in her.
+B: Then why were you looking at her? --why
+A: I was looking at something else.
+B: Oh, really? --yn Then spend tonight looking at the sofa.
+<end=dialog>
+<start=dialog>
+A: Would you like to go on a blind date? --yn
+B: You must be joking.
+A: No, I'm serious.
+B: I don't want to date a blind woman.
+A: A blind date doesn't mean that she is blind!
+B: What does it mean? --what
+A: A blind date is a date with someone you don't know.
+B: Why would I date someone I don't even know? --why
+A: To try something new and exciting.
+B: What if I don't like her? --what
+A: Then you don't date her again.
+<end=dialog>
+<start=dialog>
+A: I have a date tomorrow night.
+B: Really? --yn Who with? --who
+A: A girl I met at the market.
+B: You met a girl at the supermarket? --yn
+A: She was standing behind me in a really slow line at the checkout counter.
+B: What did you say to her? --what
+A: I had two pineapples in my cart, and she asked where I had found them.
+B: She asked you about your pineapples? --yn
+A: I told her I had gotten the last two on the shelf, but I offered her one of mine.
+B: That was nice of you.
+A: She asked me how she could return the favor, so I asked her out.
+B: Sometimes a slow line can be a good thing.
+<end=dialog>
+<start=dialog>
+A: Did you have a date Friday night? --yn
+B: Yes, in fact, I did.
+A: Who did you go out with? --who
+B: A man I met in a coffee shop.
+A: Where did you go? --where
+B: We went to a nice restaurant.
+A: Anywhere else? --where
+B: Then we went to a jazz club.
+A: That sounds like a nice date.
+B: Yes, it was pleasant.
+A: But you won't date him again? --yn
+B: No. He was nice, but there was no chemistry.
+<end=dialog>
+<start=dialog>
+A: I had the worst date the other night.
+B: What happened? --what
+A: First of all, he was half an hour late.
+B: That's not a good start.
+A: Then he didn't bother to apologize.
+B: That's rude.
+A: Then he drove too fast to the restaurant.
+B: That's dangerous.
+A: I thought about getting out and taking a taxi home.
+B: What happened at the restaurant? --what
+A: We had a $40 meal, and he left a $1 tip!
+B: I guess you can't go back to that restaurant.
+<end=dialog>
+<start=dialog>
+A: I don't like that man.
+B: Why not? --why
+A: He's a dirty old man.
+B: What do you mean? --what
+A: He's old enough to be my father, yet he asked me out.
+B: Well, you can't blame a man for asking.
+A: He should act his age.
+B: But a lot of old people are still interested in dating.
+A: They should find a nice hobby.
+B: Just wait until you're 50 years old.
+A: Dating will be the furthest thing from my mind.
+B: That's what you say now. Wait till you're 50.
+<end=dialog>
+<start=dialog>
+A: Does your girlfriend ever make you angry? --yn
+B: Sometimes.
+A: What does she do? --what
+B: Just yesterday, I told her I wouldn't trade her for all the money in the world.
+A: That was a nice thing to say.
+B: That's what I thought.
+A: What did she say? --what
+B: She laughed! She didn't believe me.
+A: That wasn't very nice of her.
+B: She said that nothing is more important to me than money.
+A: What did you say? --what
+B: I told her I wouldn't trade her for any other woman in the world.
+<end=dialog>
+<start=dialog>
+A: Some people have good noses.
+B: I wish I had a good nose. Mine is way too big.
+A: I don't mean good-looking. I mean good-smelling.
+B: Oh. But that can be a curse.
+A: Yes, because you can be too sensitive to odors.
+B: I'll say. My girlfriend has a nose like a drug dog.
+A: Did she catch you using drugs? --yn
+B: Sort of. She knows whenever I sneak a cigarette.
+A: You don't need a good nose for that—cigarettes stink.
+B: But when I sneak just one cigarette in the morning, she can smell it that evening!
+A: Boy, that is a good nose.
+B: I told her she should apply for a job at customs.
+<end=dialog>
+<topic=eating_out>
+<start=dialog>
+A: Let's go out to eat.
+B: That sounds like fun.
+A: Where do you want to go? --where
+B: Let me think a minute.
+A: I feel like Chinese.
+B: That sounds delicious.
+A: I know a good Chinese restaurant.
+B: How far away is it? --how_far
+A: It's only 10 minutes from here.
+B: Do we need reservations? --yn
+A: Oh, no. We can walk right in.
+B: Let's go now. I'm hungry!
+<end=dialog>
+<start=dialog>
+A: I can't believe how long this line is.
+B: This is a popular restaurant, isn't it? --yn
+A: Yes, but it isn't a fast-food restaurant, is it? --yn
+B: It's the slowest hamburger in town.
+A: That's because they cook it while you wait.
+B: Yes. That's why it's also the best hamburger in town.
+A: A great burger and great service.
+B: Yes, the workers are very polite.
+A: And they're clean.
+B: I've been coming here for years.
+A: Me too.
+B: Excuse me. They just called my number.
+<end=dialog>
+<start=dialog>
+A: Lunch was delicious.
+B: Thank you.
+A: What kind of soup was that? --what
+B: It was tomato soup.
+A: That tasted so good.
+B: I put lemon and butter in it.
+A: The sandwich was good, too.
+B: Everyone likes bacon and tomato sandwiches.
+A: Especially on toast.
+B: And the pickles were great, too.
+A: Tomorrow we'll have rice and fish for lunch.
+B: I can't wait.
+<end=dialog>
+<start=dialog>
+A: I'm calling the waiter.
+B: What's the matter? --what
+A: This steak has too much fat.
+B: What do you want the waiter to do? --what
+A: Bring me a better steak.
+B: I wouldn't do that.
+A: Why not? --why
+B: They will drop the new steak on the floor, step on it, and then spit on it.
+A: You're crazy.
+B: Then the waiter will give you a big smile as he brings you the new steak.
+A: Where do you get these crazy ideas? --where
+B: I used to cook in a restaurant!
+<end=dialog>
+<start=dialog>
+A: Let's leave.
+B: But we just got here.
+A: Did you see the waiter's hands? --yn
+B: No.
+A: He had dirty fingernails.
+B: Really? --yn
+A: His nails were black!
+B: That's disgusting.
+A: And he poured water into our glasses.
+B: Yuck! No water for me.
+A: I wonder if the cooks' nails are dirty, too.
+B: Who cares? --who Let's get out of here.
+<end=dialog>
+<start=dialog>
+A: This hot bread is delicious.
+B: I like this restaurant because they give you free bread.
+A: Well, I think we are paying for it.
+B: No. Look at the bill when we get it. There's no charge for the bread.
+A: It is delicious, especially with butter.
+B: I think we should just leave after we fill up on the bread.
+A: They probably wouldn't like that.
+B: I'm eating so much bread that I'm getting full.
+A: Then stop eating the bread!
+B: Okay, just one more piece. Pass the butter, please.
+A: If I owned a restaurant, I would never serve hot bread before the main course.
+B: That's terrible. I would never go to your restaurant.
+<end=dialog>
+<start=dialog>
+A: Is this a clean restaurant? --yn
+B: Well, the tables and chairs look okay.
+A: Okay, let's sit down.
+B: Check out the silverware.
+A: It passes inspection.
+B: Here comes the waiter. See if his hands and nails are clean.
+A: Well, the waiter looked clean, so I guess it's okay to eat here.
+B: You're forgetting about the bathroom.
+A: I'm going to just hope that the bathroom is clean.
+B: You're not going to examine it before we order dinner? --yn
+A: No, I'd rather not find out that it's dirty, because I'm pretty hungry right now.
+B: Me, too. Let's forget about germs and focus on food.
+<end=dialog>
+<start=dialog>
+A: Have you seen our waiter? --yn
+B: Here he comes now.
+A: We've been sitting here for almost 10 minutes.
+B: Oops, I guess I was wrong. That isn't our waiter.
+A: We can give him five more minutes, and then leave.
+B: I'll go up front and talk to the manager.
+A: That's a good idea.
+B: Maybe they'll give us free drinks for waiting so long.
+A: Maybe he'll send us our waiter immediately.
+B: Every time we eat out, it's an adventure.
+A: Last time, we got seats next to the kitchen.
+B: We'll never go there again.
+<end=dialog>
+<start=dialog>
+A: Is this table okay? --yn
+B: No, it's too close to the kitchen door.
+A: How about this table? --how_about
+B: No, it's too close to the front door.
+A: This looks like a nice table.
+B: No, it's too close to the salad bar.
+A: Okay, I give up.
+B: Well, there is one good table.
+A: Great. Which one? --which
+B: That one. A group of eight just sat down at it.
+<end=dialog>
+<start=dialog>
+A: I don't believe the art world.
+B: What is it this time? --what
+A: An Andy Warhol drawing.
+B: He's a famous artist.
+A: He drew two butterflies and a flower on a napkin in a restaurant.
+B: Did he sign it? --yn
+A: Yes.
+B: Is it beautiful? --yn
+A: It's just black ink on a white napkin. And the napkin has food stains!
+B: So it's not worth much? --yn
+A: Only about $30,000.
+B: Without the food stains, it would probably be worth more.
+<end=dialog>
